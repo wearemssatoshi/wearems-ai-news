@@ -14,6 +14,7 @@ import os
 import html
 from datetime import datetime, timezone, timedelta
 from urllib.request import urlopen, Request
+from urllib.parse import quote
 from xml.etree import ElementTree as ET
 
 JST = timezone(timedelta(hours=9))
@@ -21,14 +22,14 @@ JST = timezone(timedelta(hours=9))
 # ── RSS Feed URLs ──
 FEEDS = {
     "google": [
-        # Google News RSS — AI/Gemini/DeepMind（日本語版）
-        "https://news.google.com/rss/search?q=Google+AI+OR+Gemini+OR+DeepMind+when:3d&hl=ja&gl=JP&ceid=JP:ja",
+        # Google News RSS — AI/Gemini/DeepMind (English, cutting-edge sources)
+        "https://news.google.com/rss/search?q=Google+AI+OR+Gemini+OR+DeepMind+when:3d&hl=en-US&gl=US&ceid=US:en",
         # Google AI Blog Atom
         "https://blog.google/technology/ai/rss/",
     ],
     "anthropic": [
-        # Google News RSS — Anthropic/Claude（日本語版）
-        "https://news.google.com/rss/search?q=Anthropic+OR+Claude+AI+when:3d&hl=ja&gl=JP&ceid=JP:ja",
+        # Google News RSS — Anthropic/Claude (English)
+        "https://news.google.com/rss/search?q=Anthropic+OR+Claude+AI+when:3d&hl=en-US&gl=US&ceid=US:en",
     ]
 }
 
@@ -221,22 +222,26 @@ def build_news_json(all_items):
     for item in all_items.get("google", [])[:MAX_ARTICLES_PER_CATEGORY]:
         tags = categorize_tag(item["title"], "google")
         source_name = extract_source_name(item["link"], item.get("source", ""))
+        translate_url = f"https://translate.google.com/translate?sl=en&tl=ja&u={quote(item['link'], safe='')}"
         google_news.append({
             "tags": tags,
-            "headline": translate_text(item["title"]),
-            "body": translate_text(item["description"] if item["description"] else item["title"]),
-            "source": {"name": source_name, "url": item["link"]}
+            "headline": item["title"],
+            "body": item["description"] if item["description"] else item["title"],
+            "source": {"name": source_name, "url": item["link"]},
+            "translate_url": translate_url
         })
 
     anthropic_news = []
     for item in all_items.get("anthropic", [])[:MAX_ARTICLES_PER_CATEGORY]:
         tags = categorize_tag(item["title"], "anthropic")
         source_name = extract_source_name(item["link"], item.get("source", ""))
+        translate_url = f"https://translate.google.com/translate?sl=en&tl=ja&u={quote(item['link'], safe='')}"
         anthropic_news.append({
             "tags": tags,
-            "headline": translate_text(item["title"]),
-            "body": translate_text(item["description"] if item["description"] else item["title"]),
-            "source": {"name": source_name, "url": item["link"]}
+            "headline": item["title"],
+            "body": item["description"] if item["description"] else item["title"],
+            "source": {"name": source_name, "url": item["link"]},
+            "translate_url": translate_url
         })
 
     return {

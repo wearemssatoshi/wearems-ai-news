@@ -363,6 +363,33 @@
     border-color: var(--gold);
   }
 
+  .card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+    gap: 12px;
+  }
+
+  .translate-link {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--gold);
+    text-decoration: none;
+    padding: 3px 10px;
+    border: 1px solid rgba(160, 120, 64, 0.15);
+    border-radius: 20px;
+    transition: all var(--transition);
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .translate-link:hover {
+    background: var(--gold-dim);
+    border-color: rgba(160, 120, 64, 0.30);
+    box-shadow: 0 0 12px rgba(160, 120, 64, 0.08);
+  }
+
   /* ── Stats ── */
   .stats-row {
     display: grid;
@@ -583,6 +610,9 @@ function renderSection(title, iconKey, iconClass, countLabel, items, accentClass
     const source = item.source
       ? `<div class="card-source">Source: <a href="${item.source.url}" target="_blank" rel="noopener">${item.source.name}</a></div>`
       : '';
+    const translate = item.translate_url
+      ? `<a href="${item.translate_url}" target="_blank" rel="noopener" class="translate-link">🇯🇵 日本語で読む</a>`
+      : '';
 
     return `
       <div class="card">
@@ -591,7 +621,10 @@ function renderSection(title, iconKey, iconClass, countLabel, items, accentClass
         <div class="card-headline">${item.headline}</div>
         <div class="card-body">${item.body}</div>
         ${insight}
-        ${source}
+        <div class="card-footer">
+          ${source}
+          ${translate}
+        </div>
       </div>`;
   }).join('');
 
