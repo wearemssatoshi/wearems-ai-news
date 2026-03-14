@@ -1,0 +1,25 @@
+{
+  "name": "WEAREMS AI NEWS",
+  "short_name": "AI News",
+  "description": "Google & Anthropic/Claude 最新AIニュースキュレーション",
+  "start_url": "/wearems-ai-news/",
+  "scope": "/wearems-ai-news/",
+  "display": "standalone",
+  "background_color": "#08080f",
+  "theme_color": "#08080f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
