@@ -3,62 +3,85 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>WEAREMS AI NEWS</title>
-<meta name="description" content="Google & Anthropic/Claude 最新AIニュースキュレーション">
-<meta name="theme-color" content="#08080f">
+<title>AI Intelligence Brief</title>
+<meta name="description" content="Google & Anthropic 最新AIインテリジェンス・ブリーフ">
+<meta name="theme-color" content="#f5f0e8">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icons/icon-192x192.png">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Noto+Sans+JP:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg-void: #08080f;
-    --bg-surface: #0e0e18;
-    --bg-card: rgba(16, 16, 28, 0.7);
-    --bg-card-hover: rgba(22, 22, 38, 0.85);
-    --bg-glass: rgba(255, 255, 255, 0.03);
-    --border-subtle: rgba(255, 255, 255, 0.06);
-    --border-hover: rgba(255, 255, 255, 0.10);
+    --bg: #efe8dc;
+    --surface-1: #e6ddd0;
+    --surface-2: #ddd4c6;
+    --surface-3: #d4cab8;
+    --border: rgba(150, 110, 55, 0.14);
+    --border-hover: rgba(150, 110, 55, 0.24);
 
-    --text-primary: #eaeaf2;
-    --text-secondary: #8888a0;
-    --text-muted: #555568;
+    --text: #2a2218;
+    --text-sub: #55493c;
+    --text-dim: #8a8278;
+    --text-muted: #a8a098;
 
-    --blue: #4a8ff7;
-    --blue-dim: rgba(74, 143, 247, 0.10);
-    --blue-glow: rgba(74, 143, 247, 0.20);
+    --gold: #a07840;
+    --gold-light: #c09858;
+    --gold-dim: rgba(160, 120, 64, 0.08);
+    --gold-glow: rgba(160, 120, 64, 0.12);
+    --gold-gradient: linear-gradient(135deg, #906830, #a07840, #c09858, #a07840);
 
-    --amber: #c89b5f;
-    --amber-dim: rgba(200, 155, 95, 0.10);
-    --amber-glow: rgba(200, 155, 95, 0.20);
+    --g-blue: #4a7bb5;
+    --g-blue-dim: rgba(74, 123, 181, 0.08);
 
-    --red: #e85d75;
-    --red-dim: rgba(232, 93, 117, 0.08);
+    --a-coral: #b87050;
+    --a-coral-dim: rgba(184, 112, 80, 0.08);
 
-    --violet: #7c6aef;
-    --violet-dim: rgba(124, 106, 239, 0.10);
+    --red: #b85c5c;
+    --red-dim: rgba(184, 92, 92, 0.06);
+    --violet: #8a6eb0;
+    --violet-dim: rgba(138, 110, 176, 0.08);
+    --green: #6b9a78;
+    --green-dim: rgba(107, 154, 120, 0.08);
 
     --radius-s: 8px;
     --radius-m: 14px;
     --radius-l: 20px;
+
+    --glass-bg: rgba(250, 244, 232, 0.80);
+    --glass-border: rgba(150, 110, 55, 0.12);
+    --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.05), 0 0 0 1px rgba(160, 120, 64, 0.06);
+    --shadow-card-hover: 0 8px 24px rgba(0, 0, 0, 0.08), 0 0 0 1px rgba(160, 120, 64, 0.12);
+    --transition: 0.30s cubic-bezier(.4,0,.2,1);
   }
 
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
   body {
     font-family: 'Inter', 'Noto Sans JP', -apple-system, sans-serif;
-    background: var(--bg-void);
-    color: var(--text-primary);
+    background: var(--bg);
+    color: var(--text);
     line-height: 1.7;
     -webkit-font-smoothing: antialiased;
     overflow-x: hidden;
   }
 
+  ::selection {
+    background: rgba(160, 120, 64, 0.15);
+    color: var(--text);
+  }
+
+  /* ── Premium Scrollbar ── */
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: rgba(160, 120, 64, 0.2); border-radius: 4px; }
+  ::-webkit-scrollbar-thumb:hover { background: rgba(160, 120, 64, 0.35); }
+
   /* ── Hero ── */
   .hero {
     position: relative;
-    padding: 72px 32px 52px;
+    padding: 72px 32px 48px;
     text-align: center;
     overflow: hidden;
+    background: linear-gradient(180deg, rgba(235, 229, 217, 0.6) 0%, var(--bg) 100%);
   }
 
   .hero::before {
@@ -66,11 +89,20 @@
     position: absolute;
     inset: -60% -40%;
     background:
-      radial-gradient(ellipse 600px 400px at 35% 40%, var(--blue-glow), transparent),
-      radial-gradient(ellipse 500px 350px at 65% 55%, var(--amber-glow), transparent);
-    opacity: 0.4;
-    animation: drift 12s ease-in-out infinite alternate;
+      radial-gradient(ellipse 600px 400px at 35% 40%, rgba(74, 123, 181, 0.06), transparent),
+      radial-gradient(ellipse 500px 350px at 65% 55%, rgba(184, 112, 80, 0.06), transparent);
+    animation: drift 14s ease-in-out infinite alternate;
     pointer-events: none;
+  }
+
+  .hero::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    right: 10%;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(160, 120, 64, 0.18), transparent);
   }
 
   @keyframes drift {
@@ -84,9 +116,9 @@
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    font-size: 11px;
+    font-size: 10px;
     font-weight: 600;
-    letter-spacing: 3px;
+    letter-spacing: 4px;
     text-transform: uppercase;
     color: var(--text-muted);
     margin-bottom: 20px;
@@ -95,60 +127,74 @@
   .brand-dot {
     width: 6px; height: 6px;
     border-radius: 50%;
-    background: var(--blue);
-    box-shadow: 0 0 8px var(--blue);
+    background: var(--gold);
+    box-shadow: 0 0 8px rgba(160, 120, 64, 0.3);
   }
 
   .hero h1 {
-    font-size: clamp(32px, 6vw, 52px);
-    font-weight: 900;
-    letter-spacing: -2px;
-    line-height: 1.1;
-    margin-bottom: 14px;
+    font-size: clamp(28px, 5vw, 46px);
+    font-weight: 800;
+    letter-spacing: -1.5px;
+    line-height: 1.15;
+    margin-bottom: 8px;
+    color: var(--text);
   }
 
   .hero h1 .g-text {
-    background: linear-gradient(135deg, var(--blue), #6db3f8);
+    background: linear-gradient(135deg, var(--g-blue), #7aa3d0);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+  }
+
+  .hero h1 .amp {
+    color: var(--text-dim);
+    font-weight: 400;
+    font-size: 0.65em;
+    -webkit-text-fill-color: var(--text-dim);
   }
 
   .hero h1 .a-text {
-    background: linear-gradient(135deg, var(--amber), #e0bf8a);
+    background: linear-gradient(135deg, var(--a-coral), #d09878);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
   }
 
+  .hero-sub {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text-dim);
+    letter-spacing: 1px;
+    margin-bottom: 6px;
+  }
+
   .hero-meta {
-    font-size: 13px;
+    font-size: 12px;
     color: var(--text-muted);
     font-weight: 400;
   }
 
   .hero-meta .update-time {
-    color: var(--text-secondary);
+    color: var(--text-sub);
     font-weight: 500;
   }
 
   /* ── Container ── */
   .container {
-    max-width: 960px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 0 20px 100px;
   }
 
   /* ── Section ── */
-  .section {
-    margin-top: 52px;
-  }
+  .section { margin-top: 44px; }
 
   .section-label {
     display: flex;
     align-items: center;
     gap: 12px;
-    margin-bottom: 24px;
+    margin-bottom: 20px;
   }
 
   .section-icon {
@@ -158,30 +204,34 @@
     align-items: center;
     justify-content: center;
     flex-shrink: 0;
+    backdrop-filter: blur(8px);
+    border: 1px solid var(--glass-border);
   }
 
-  .section-icon.blue { background: var(--blue-dim); }
-  .section-icon.amber { background: var(--amber-dim); }
+  .section-icon.g-blue { background: var(--g-blue-dim); }
+  .section-icon.a-coral { background: var(--a-coral-dim); }
   .section-icon.violet { background: var(--violet-dim); }
-
   .section-icon svg { width: 16px; height: 16px; }
 
   .section-title {
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 700;
     letter-spacing: -0.3px;
+    color: var(--text);
     flex: 1;
   }
 
   .section-count {
+    font-family: Menlo, Monaco, monospace;
     font-size: 10px;
     font-weight: 600;
-    letter-spacing: 2px;
+    letter-spacing: 1.5px;
     text-transform: uppercase;
     color: var(--text-muted);
     padding: 3px 10px;
-    border: 1px solid var(--border-subtle);
+    border: 1px solid var(--border);
     border-radius: 20px;
+    background: var(--glass-bg);
   }
 
   /* ── Cards ── */
@@ -189,72 +239,84 @@
 
   .card {
     position: relative;
-    background: var(--bg-card);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
-    border: 1px solid var(--border-subtle);
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--glass-border);
     border-radius: var(--radius-m);
-    padding: 24px 26px;
-    transition: all 0.35s cubic-bezier(.4,0,.2,1);
+    padding: 22px 24px;
+    transition: all var(--transition);
     overflow: hidden;
+    box-shadow: var(--shadow-card);
+  }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 20px;
+    right: 20px;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(160, 120, 64, 0.10), transparent);
   }
 
   .card:hover {
-    background: var(--bg-card-hover);
     border-color: var(--border-hover);
-    transform: translateY(-1px);
-    box-shadow: 0 16px 48px rgba(0,0,0,0.4);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-card-hover);
   }
 
   .card-accent {
     position: absolute;
     top: 0; left: 0;
-    width: 2px; height: 100%;
+    width: 3px; height: 100%;
+    border-radius: 3px 0 0 3px;
   }
 
-  .card-accent.blue { background: linear-gradient(180deg, var(--blue), transparent); }
-  .card-accent.amber { background: linear-gradient(180deg, var(--amber), transparent); }
-  .card-accent.red { background: linear-gradient(180deg, var(--red), transparent); }
+  .card-accent.g-blue { background: linear-gradient(180deg, var(--g-blue), rgba(74, 123, 181, 0.2)); }
+  .card-accent.a-coral { background: linear-gradient(180deg, var(--a-coral), rgba(184, 112, 80, 0.2)); }
+  .card-accent.red { background: linear-gradient(180deg, var(--red), rgba(184, 92, 92, 0.2)); }
 
   .card-tags {
     display: flex;
     align-items: center;
-    gap: 8px;
-    margin-bottom: 10px;
+    gap: 6px;
+    margin-bottom: 8px;
     flex-wrap: wrap;
   }
 
   .tag {
     font-size: 9px;
     font-weight: 700;
-    letter-spacing: 1.5px;
+    letter-spacing: 1.2px;
     text-transform: uppercase;
     padding: 2px 8px;
     border-radius: 4px;
     line-height: 1.6;
   }
 
-  .tag-blue { background: var(--blue-dim); color: var(--blue); }
-  .tag-amber { background: var(--amber-dim); color: var(--amber); }
-  .tag-red { background: var(--red-dim); color: var(--red); }
-  .tag-violet { background: var(--violet-dim); color: var(--violet); }
+  .tag-blue { background: var(--g-blue-dim); color: var(--g-blue); border: 1px solid rgba(74,123,181,0.1); }
+  .tag-amber { background: var(--a-coral-dim); color: var(--a-coral); border: 1px solid rgba(184,112,80,0.1); }
+  .tag-red { background: var(--red-dim); color: var(--red); border: 1px solid rgba(184,92,92,0.06); }
+  .tag-violet { background: var(--violet-dim); color: var(--violet); border: 1px solid rgba(138,110,176,0.08); }
 
   .card-headline {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 700;
     letter-spacing: -0.3px;
-    line-height: 1.45;
-    margin-bottom: 8px;
+    line-height: 1.5;
+    margin-bottom: 6px;
+    color: var(--text);
   }
 
   .card-body {
     font-size: 13px;
-    color: var(--text-secondary);
+    color: var(--text-sub);
     line-height: 1.85;
   }
 
   .card-body strong {
-    color: var(--text-primary);
+    color: var(--text);
     font-weight: 600;
   }
 
@@ -264,22 +326,23 @@
     border-radius: var(--radius-s);
     font-size: 12px;
     line-height: 1.75;
-    color: var(--text-secondary);
+    color: var(--text-sub);
+    backdrop-filter: blur(4px);
   }
 
   .card-insight.blue-insight {
-    background: rgba(74, 143, 247, 0.04);
-    border-left: 2px solid rgba(74, 143, 247, 0.25);
+    background: rgba(74, 123, 181, 0.04);
+    border-left: 2px solid rgba(74, 123, 181, 0.25);
   }
 
   .card-insight.amber-insight {
-    background: rgba(200, 155, 95, 0.04);
-    border-left: 2px solid rgba(200, 155, 95, 0.25);
+    background: rgba(184, 112, 80, 0.04);
+    border-left: 2px solid rgba(184, 112, 80, 0.25);
   }
 
   .card-insight.red-insight {
-    background: rgba(232, 93, 117, 0.04);
-    border-left: 2px solid rgba(232, 93, 117, 0.25);
+    background: rgba(184, 92, 92, 0.04);
+    border-left: 2px solid rgba(184, 92, 92, 0.25);
   }
 
   .card-source {
@@ -289,44 +352,45 @@
   }
 
   .card-source a {
-    color: var(--text-secondary);
+    color: var(--text-dim);
     text-decoration: none;
-    border-bottom: 1px solid var(--border-subtle);
+    border-bottom: 1px solid var(--border);
     transition: color 0.2s, border-color 0.2s;
   }
 
   .card-source a:hover {
-    color: var(--blue);
-    border-color: var(--blue);
+    color: var(--gold);
+    border-color: var(--gold);
   }
 
   /* ── Stats ── */
   .stats-row {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 12px;
-    margin-top: 52px;
+    margin-top: 44px;
   }
 
   .stat {
-    background: var(--bg-card);
-    backdrop-filter: blur(16px);
-    -webkit-backdrop-filter: blur(16px);
-    border: 1px solid var(--border-subtle);
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--glass-border);
     border-radius: var(--radius-m);
     padding: 20px;
     text-align: center;
+    box-shadow: var(--shadow-card);
   }
 
   .stat-num {
-    font-size: 26px;
+    font-size: 24px;
     font-weight: 800;
     letter-spacing: -1px;
     margin-bottom: 2px;
   }
 
-  .stat-num.c-blue { color: var(--blue); }
-  .stat-num.c-amber { color: var(--amber); }
+  .stat-num.c-blue { color: var(--g-blue); }
+  .stat-num.c-amber { color: var(--a-coral); }
   .stat-num.c-red { color: var(--red); }
   .stat-num.c-violet { color: var(--violet); }
 
@@ -340,33 +404,34 @@
 
   /* ── Insight Box ── */
   .insight-box {
-    margin-top: 52px;
-    background: var(--bg-glass);
-    border: 1px solid var(--border-subtle);
+    margin-top: 44px;
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
     border-radius: var(--radius-l);
-    padding: 28px 28px;
+    padding: 24px 24px;
+    box-shadow: var(--shadow-card);
   }
 
   .insight-box h3 {
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 700;
-    margin-bottom: 16px;
+    margin-bottom: 14px;
+    color: var(--text);
     display: flex;
     align-items: center;
     gap: 8px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid rgba(160, 120, 64, 0.08);
+    letter-spacing: 0.3px;
   }
 
-  .insight-box h3 svg {
-    width: 16px; height: 16px;
-  }
+  .insight-box h3 svg { width: 16px; height: 16px; }
 
-  .insight-box ul {
-    list-style: none;
-  }
+  .insight-box ul { list-style: none; }
 
   .insight-box li {
     font-size: 13px;
-    color: var(--text-secondary);
+    color: var(--text-sub);
     padding: 7px 0 7px 18px;
     position: relative;
     line-height: 1.75;
@@ -379,22 +444,23 @@
     top: 14px;
     width: 4px; height: 4px;
     border-radius: 50%;
-    background: var(--violet);
+    background: var(--gold);
   }
 
   .insight-box li strong {
-    color: var(--text-primary);
+    color: var(--text);
     font-weight: 600;
   }
 
   /* ── Footer ── */
   .footer {
     text-align: center;
-    padding: 48px 20px;
-    font-size: 11px;
+    padding: 44px 20px;
+    font-size: 10px;
     color: var(--text-muted);
-    letter-spacing: 1.5px;
+    letter-spacing: 2px;
     text-transform: uppercase;
+    border-top: 1px solid rgba(160, 120, 64, 0.06);
   }
 
   /* ── Loading ── */
@@ -411,8 +477,8 @@
 
   .spinner {
     width: 24px; height: 24px;
-    border: 2px solid var(--border-subtle);
-    border-top-color: var(--blue);
+    border: 2px solid var(--surface-2);
+    border-top-color: var(--gold);
     border-radius: 50%;
     animation: spin 0.8s linear infinite;
   }
@@ -421,14 +487,15 @@
 
   /* ── Responsive ── */
   @media (max-width: 640px) {
-    .hero { padding: 56px 20px 40px; }
+    .hero { padding: 52px 20px 36px; }
+    .hero h1 { font-size: clamp(24px, 7vw, 36px); }
     .container { padding: 0 14px 80px; }
-    .card { padding: 20px 18px; }
-    .card-headline { font-size: 15px; }
+    .card { padding: 18px 16px; }
+    .card-headline { font-size: 14px; }
     .stats-row { grid-template-columns: 1fr 1fr; gap: 8px; }
     .stat { padding: 16px 12px; }
-    .stat-num { font-size: 22px; }
-    .insight-box { padding: 22px 20px; }
+    .stat-num { font-size: 20px; }
+    .insight-box { padding: 20px 18px; }
   }
 </style>
 </head>
@@ -438,14 +505,15 @@
   <div class="hero-inner">
     <div class="hero-brand">
       <span class="brand-dot"></span>
-      wearems ai news
+      AI Intelligence Brief
     </div>
     <h1>
-      <span class="g-text">Google</span> &
-      <span class="a-text">Claude</span>
+      <span class="g-text">Google</span>
+      <span class="amp">&</span>
+      <span class="a-text">Anthropic</span>
     </h1>
+    <p class="hero-sub">Latest AI Intelligence for SAT</p>
     <p class="hero-meta">
-      最新AIニュース・キュレーション —
       <span class="update-time" id="updateTime">読み込み中...</span>
     </p>
   </div>
@@ -461,11 +529,11 @@
 </div>
 
 <div class="footer">
-  wearems ai news · curated for sat
+  AI Intelligence Brief · curated for SAT
 </div>
 
 <script>
-// ── SVG Icons (inline, no AI smell) ──
+// ── SVG Icons (inline, elegant) ──
 const ICONS = {
   google: `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="6"/><path d="M8 2v12M2 8h12"/></svg>`,
   anthropic: `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2L14 14H2Z"/></svg>`,
@@ -474,130 +542,39 @@ const ICONS = {
   breaking: `<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="8,1 10,6 15,6 11,9.5 12.5,14.5 8,11.5 3.5,14.5 5,9.5 1,6 6,6"/></svg>`
 };
 
-// ── Default data for initial load (static fallback) ──
+// ── Default data (static fallback) ──
 const STATIC_NEWS = {
-  lastUpdated: "2026-03-14T13:24:00+09:00",
+  lastUpdated: "2026-03-14T16:20:00+09:00",
   google: [
     {
-      tags: [{ label: "Gemini", type: "blue" }, { label: "Major", type: "red" }],
-      headline: "Gemini 3.1 Pro & Nano Banana 2 リリース",
-      body: "<strong>Gemini 3.1 Pro</strong>が正式リリース。複雑な問題解決と科学研究向けに最適化された推論能力を搭載。同時に画像生成AI「<strong>Nano Banana 2</strong>」（Gemini 3.1 Flash）も公開。AI Studio、Vertex AI、Google Search全体に統合され、Fast / Thinking / Pro モードのデフォルトモデルに。",
-      insight: "SVD-OSへの示唆：Gemini APIを使用している全プロジェクト（MP、TI、MINDFUL等）で、モデル指定を3.1 Proへアップグレードすることで推論精度の向上が期待できる。",
-      insightType: "blue",
+      tags: [{ label: "Gemini", type: "blue" }, { label: "New", type: "red" }],
+      headline: "Gemini 2.5 Flash Image — 画像生成AIの新時代",
+      body: "<strong>Gemini 2.5 Flash</strong>に画像生成機能が統合。テキスト・画像両方を同時に生成可能な次世代マルチモーダルAI。",
       source: { name: "Google Blog", url: "https://blog.google" }
-    },
-    {
-      tags: [{ label: "Pixel", type: "blue" }, { label: "Agentic", type: "red" }],
-      headline: "Pixel March Drop — エージェント型AIが全世界展開",
-      body: "Pixel 6〜10向けに、Geminiアプリの<strong>エージェント型生成AI機能</strong>がグローバル展開開始。食料品の購入やライドの予約など、複数ステップのタスクを最小限の人間介入で自律的に実行可能に。Circle to Searchの強化も追加。",
-      source: { name: "Deccan Herald", url: "https://www.deccanherald.com" }
-    },
-    {
-      tags: [{ label: "Workspace", type: "blue" }],
-      headline: "Google Workspace × Gemini 深層統合",
-      body: "Docs、Sheets、Slides、DriveにGeminiが本格統合。<strong>スプレッドシートの自動構築</strong>、ドキュメント作成、Drive・Gmail・Chatからの情報統合、スライドコンテンツの自動生成が可能に。",
-      insight: "SVD-OS的視点：GASバックエンドからのデータをSheets経由で分析する際、Geminiによる自然言語クエリで分析効率が大幅に向上する可能性。",
-      insightType: "blue",
-      source: { name: "Google Workspace", url: "https://workspace.google.com" }
-    },
-    {
-      tags: [{ label: "Maps", type: "blue" }],
-      headline: "Google Maps「Ask Maps」— Gemini搭載の対話型検索",
-      body: "Google Mapsに「<strong>Ask Maps</strong>」機能を追加。Gemini AIによる会話型検索で、複雑なロケーションベースの質問にパーソナライズされた回答とカスタムマップを返す。レストラン探しの体験が根本的に変わる可能性。",
-      source: { name: "KGW", url: "https://www.kgw.com" }
-    },
-    {
-      tags: [{ label: "Search", type: "blue" }],
-      headline: "AI Mode Canvas — 全米ユーザーに開放",
-      body: "Google検索の<strong>AI Mode Canvas</strong>が全米ユーザーに拡大。情報検索だけでなく、ドキュメント作成、コード生成、インタラクティブツールの構築が検索画面内で直接可能に。Geminiアプリは月間<strong>7.5億ユーザー</strong>を突破。",
-      source: { name: "Marketing Profs", url: "https://www.marketingprofs.com" }
-    },
-    {
-      tags: [{ label: "Healthcare", type: "blue" }, { label: "Research", type: "violet" }],
-      headline: "Google AI、乳がん検出で人間の医師を上回る",
-      body: "Nature Cancer誌に掲載されたNHSの研究で、<strong>Google AIが乳がん検出において人間の医師を上回る</strong>性能を示した。より多くの浸潤性がんを検出し、偽陽性を減少させ、インターバルがんの検出にも優れた結果。",
-      source: { name: "Digital Health", url: "https://www.digitalhealth.net" }
-    },
-    {
-      tags: [{ label: "DeepMind", type: "blue" }, { label: "Research", type: "violet" }],
-      headline: "Groundsource — 鉄砲水を24時間前に予測するAI",
-      body: "Google DeepMindが「<strong>Groundsource</strong>」をローンチ。Gemini AIで過去のニュースレポートを分析し、<strong>150カ国以上</strong>で都市の鉄砲水を最大24時間前に予測。Wellcome Sanger Instituteとゲノミクス共同研究も開始。",
-      source: { name: "Google Research", url: "https://research.google" }
     }
   ],
   anthropic: [
     {
-      tags: [{ label: "Claude Code", type: "amber" }, { label: "Breakthrough", type: "red" }],
-      headline: "Claude Code「Agent Teams」& Code Review — マルチエージェント時代の幕開け",
-      body: "Claude Codeに<strong>「Agent Teams」機能</strong>が搭載。リードエージェントが複数の専門化されたエージェントを生成・管理し、共有コードベース上で並列作業を実行。3月9日には<strong>「Code Review for Claude Code」</strong>がリリース。GitHubに統合されたマルチエージェント自動PRレビューシステム。",
-      insight: "我々のGASプロジェクト群（MP、TI、MINDFUL、TSS等）の開発に、マルチエージェント協調が使えるようになる。SATとGの「チーム」が拡張する未来。",
-      insightType: "amber",
-      source: { name: "The New Stack", url: "https://thenewstack.io" }
-    },
-    {
-      tags: [{ label: "Model", type: "amber" }],
-      headline: "Claude Opus 4.6 / Sonnet 4.6 リリース済み",
-      body: "<strong>Opus 4.6</strong>（2月5日リリース）は100万トークンのコンテキストウィンドウと改良されたマルチステップ推論を搭載。法律・金融・コーディングの専門ベンチマークで他モデルを圧倒。<strong>Sonnet 4.6</strong>（2月17日リリース）はコーディングベンチマークを支配。",
-      source: { name: "Medium", url: "https://medium.com" }
-    },
-    {
-      tags: [{ label: "Feature", type: "amber" }],
-      headline: "会話内でインタラクティブなチャート＆ダイアグラム生成が可能に",
-      body: "Claudeの新機能として、会話内で直接<strong>インタラクティブなチャート・ダイアグラム</strong>を生成・表示する能力が追加。無料プランも含め全ユーザーに提供。データの理解を深め、動的なビジュアライゼーションを実現。",
-      source: { name: "Silicon Angle", url: "https://siliconangle.com" }
-    },
-    {
-      tags: [{ label: "Next", type: "amber" }, { label: "Coming Soon", type: "red" }],
-      headline: "Claude Sonnet 5（コードネーム「Fennec」）数週間以内にリリース予定",
-      body: "<strong>Claude Sonnet 5</strong>（コードネーム「Fennec」）が数週間以内にローンチ予定。Opus 4.6を上回るコーディング能力、「<strong>Dev Team</strong>」マルチエージェント協調モード、そして現行フラッグシップの<strong>50%低価格</strong>が予想されている。",
-      source: { name: "MLQ.ai", url: "https://mlq.ai" }
-    },
-    {
-      tags: [{ label: "Business", type: "amber" }],
-      headline: "Anthropic、売上ランレートが200億ドルに迫る",
-      body: "Claude Codeのランレート売上が<strong>25億ドル超</strong>（2026年初頭から倍増）。Anthropic全体のランレート売上は<strong>200億ドル</strong>に迫り、2026年末までにOpenAIの売上を上回る可能性。ダブリンオフィスを6倍に拡大し200名を新規採用予定。EMEAの売上は前年比<strong>11倍</strong>成長。",
-      source: { name: "CRN", url: "https://www.crn.com" }
-    },
-    {
-      tags: [{ label: "Institute", type: "amber" }, { label: "Society", type: "violet" }],
-      headline: "「The Anthropic Institute」設立 — AI社会影響の研究機関",
-      body: "3月11日、共同創業者Jack Clark率いる<strong>「The Anthropic Institute」</strong>を設立。フロンティアAIのレッドチーミング、社会的インパクト、経済研究に焦点を当てた学際的な研究機関。",
+      tags: [{ label: "Claude", type: "amber" }, { label: "New", type: "red" }],
+      headline: "Claude Code — マルチエージェント協調が本格化",
+      body: "<strong>Claude Code</strong>でAgent Teams機能が搭載。複数のAIエージェントが並列でコーディングタスクを処理。",
       source: { name: "Anthropic", url: "https://anthropic.com" }
-    },
-    {
-      tags: [{ label: "Controversy", type: "red" }, { label: "Ethics", type: "amber" }],
-      headline: "Anthropic vs. 米国防総省 — AI倫理の最前線での激突",
-      body: "トランプ大統領がAnthropicの技術の連邦機関利用を禁止。国防総省はAnthropicを「<strong>サプライチェーンリスク</strong>」に指定。Anthropicが「暴力目的」「大規模国内監視」「完全自律兵器」への使用を利用規約で禁止したことが原因。Anthropicは3月9日に連邦政府に対し<strong>民事訴訟</strong>を提起。",
-      insight: "AI倫理の分水嶺：ビジネスの成長と倫理的ポジションの両立を貫くAnthropicの姿勢は、テクノロジー企業のあり方として注目に値する。",
-      insightType: "red",
-      source: { name: "CBS News", url: "https://www.cbsnews.com" }
     }
   ],
-  upcoming: [
-    {
-      tags: [{ label: "Event", type: "blue" }],
-      headline: "Google Cloud Next 2026（4月22〜24日 / ラスベガス）",
-      body: "Mandalay Bay Convention Centerにて開催。注目テーマ：エージェント型AIシステム、第7世代TPU & AI Hypercomputer、BigQuery × AI統合、Agentic SOC（AI駆動セキュリティ）、GeminiのWorkspace統合深化。Gemini 4の予告があるかも要注目。",
-      source: { name: "Google Cloud", url: "https://cloud.google.com" }
-    }
-  ],
+  upcoming: [],
   stats: [
-    { value: "7.5億", label: "Geminiアプリ月間ユーザー", color: "c-blue" },
-    { value: "$20B", label: "Anthropic ランレート売上", color: "c-amber" },
-    { value: "11x", label: "Anthropic EMEA YoY成長", color: "c-red" },
-    { value: "150+", label: "Groundsource 対応国数", color: "c-violet" }
+    { value: "—", label: "Google記事数", color: "c-blue" },
+    { value: "—", label: "Anthropic記事数", color: "c-amber" },
+    { value: "—", label: "最終更新", color: "c-violet" },
+    { value: "—", label: "取得日", color: "c-red" }
   ],
-  insights: [
-    "<strong>Gemini 3.1 Pro移行の検討</strong> — SVD-OSのGAS群がGemini APIを使用している場合、モデルバージョンアップで推論精度向上の恩恵を受けられる。特にMomentum Peaksの予測ロジックに効果的。",
-    "<strong>Claude Code Agent Teams</strong> — 我々のペアプログラミングがさらに強力に。並列開発タスクの投入で、複数のGASプロジェクトを同時に進化させることが可能。",
-    "<strong>Ask Maps = レストランUXの変革</strong> — SVDの各レストランが「Ask Maps」での会話型検索に最適化されるよう、構造化データ（Googleビジネスプロフィール）の充実が必須。",
-    "<strong>Claude Sonnet 5 (Fennec) に備えよ</strong> — 数週間以内にリリース。50%低価格でOpus超えのコーディング能力は、開発コスト面で大きなアドバンテージ。",
-    "<strong>Google Cloud Next 2026</strong> — 4月22〜24日。TPU第7世代とエージェント型AIのアナウンスはSVD-OSの次世代アーキテクチャに直結する可能性。要ウォッチ。"
-  ]
+  insights: []
 };
 
 // ── Render Functions ──
 function renderSection(title, iconKey, iconClass, countLabel, items, accentClass) {
+  if (!items || items.length === 0) return '';
+
   const cardsHtml = items.map(item => {
     const tags = item.tags.map(t => `<span class="tag tag-${t.type}">${t.label}</span>`).join('');
     const insight = item.insight
@@ -642,6 +619,7 @@ function renderStats(stats) {
 }
 
 function renderInsights(items) {
+  if (!items || items.length === 0) return '';
   const lis = items.map(i => `<li>${i}</li>`).join('');
   return `
     <div class="insight-box">
@@ -665,12 +643,15 @@ function render(data) {
   document.getElementById('updateTime').textContent = formatDate(data.lastUpdated);
 
   const content = document.getElementById('newsContent');
-  content.innerHTML =
-    renderSection('Google / Gemini', 'google', 'blue', `${data.google.length} stories`, data.google, 'blue') +
-    renderSection('Anthropic / Claude', 'anthropic', 'amber', `${data.anthropic.length} stories`, data.anthropic, 'amber') +
-    renderSection('Coming Up', 'upcoming', 'violet', `${data.upcoming.length} story`, data.upcoming, 'blue') +
-    renderStats(data.stats) +
-    renderInsights(data.insights);
+  let html = '';
+  html += renderSection('Google / Gemini', 'google', 'g-blue', `${data.google.length} stories`, data.google, 'g-blue');
+  html += renderSection('Anthropic / Claude', 'anthropic', 'a-coral', `${data.anthropic.length} stories`, data.anthropic, 'a-coral');
+  if (data.upcoming && data.upcoming.length > 0) {
+    html += renderSection('Coming Up', 'upcoming', 'violet', `${data.upcoming.length} events`, data.upcoming, 'g-blue');
+  }
+  html += renderStats(data.stats);
+  html += renderInsights(data.insights);
+  content.innerHTML = html;
 }
 
 // ── Data Loading ──
