@@ -21,14 +21,14 @@ JST = timezone(timedelta(hours=9))
 # ── RSS Feed URLs ──
 FEEDS = {
     "google": [
-        # Google News RSS — AI/Gemini/DeepMind
-        "https://news.google.com/rss/search?q=Google+AI+OR+Gemini+OR+DeepMind+when:3d&hl=en-US&gl=US&ceid=US:en",
+        # Google News RSS — AI/Gemini/DeepMind（日本語版）
+        "https://news.google.com/rss/search?q=Google+AI+OR+Gemini+OR+DeepMind+when:3d&hl=ja&gl=JP&ceid=JP:ja",
         # Google AI Blog Atom
         "https://blog.google/technology/ai/rss/",
     ],
     "anthropic": [
-        # Google News RSS — Anthropic/Claude
-        "https://news.google.com/rss/search?q=Anthropic+OR+Claude+AI+when:3d&hl=en-US&gl=US&ceid=US:en",
+        # Google News RSS — Anthropic/Claude（日本語版）
+        "https://news.google.com/rss/search?q=Anthropic+OR+Claude+AI+when:3d&hl=ja&gl=JP&ceid=JP:ja",
     ]
 }
 
@@ -56,6 +56,16 @@ TRANSLATION_MAP = {
 }
 
 MAX_ARTICLES_PER_CATEGORY = 8
+
+
+def translate_text(text):
+    """Apply simple keyword-level translation for remaining English terms."""
+    if not text:
+        return text
+    result = text
+    for eng, jap in TRANSLATION_MAP.items():
+        result = re.sub(r'\b' + re.escape(eng) + r'\b', jap, result, flags=re.IGNORECASE)
+    return result
 
 
 def fetch_rss(url):
@@ -213,8 +223,8 @@ def build_news_json(all_items):
         source_name = extract_source_name(item["link"], item.get("source", ""))
         google_news.append({
             "tags": tags,
-            "headline": item["title"],
-            "body": item["description"] if item["description"] else item["title"],
+            "headline": translate_text(item["title"]),
+            "body": translate_text(item["description"] if item["description"] else item["title"]),
             "source": {"name": source_name, "url": item["link"]}
         })
 
@@ -224,8 +234,8 @@ def build_news_json(all_items):
         source_name = extract_source_name(item["link"], item.get("source", ""))
         anthropic_news.append({
             "tags": tags,
-            "headline": item["title"],
-            "body": item["description"] if item["description"] else item["title"],
+            "headline": translate_text(item["title"]),
+            "body": translate_text(item["description"] if item["description"] else item["title"]),
             "source": {"name": source_name, "url": item["link"]}
         })
 
