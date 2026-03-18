@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T13:50:01.114975+09:00",
+  "lastUpdated": "2026-03-18T20:40:21.191975+09:00",
   "google": [
     {
       "tags": [
@@ -15,6 +15,51 @@
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaEpNUnUzYnZPa21kcEFLM2NsN3k3VU8wSlJTNnZqLTJ2Yy1CR0Y3NU1kZ3EyamxCUUhTOHc1ckdKTzJmSHZUSmR4bXRnRENtMEkyS3EzY1g3RnBpR0xidEg0MUJFb0V2WWlLbDhvWjRiOHprM1Ztb0NIZVZqdkEwRk1MZU9IeW5YQzNGLV9XdUJMbWMxRUE?oc=5"
       },
       "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilgFBVV95cUxQaEpNUnUzYnZPa21kcEFLM2NsN3k3VU8wSlJTNnZqLTJ2Yy1CR0Y3NU1kZ3EyamxCUUhTOHc1ckdKTzJmSHZUSmR4bXRnRENtMEkyS3EzY1g3RnBpR0xidEg0MUJFb0V2WWlLbDhvWjRiOHprM1Ztb0NIZVZqdkEwRk1MZU9IeW5YQzNGLV9XdUJMbWMxRUE%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Gemini",
+          "type": "blue"
+        }
+      ],
+      "headline": "6 ways Gemini supercharges Google Sheets - Computerworld",
+      "body": "6 ways Gemini supercharges Google Sheets  Computerworld",
+      "source": {
+        "name": "Computerworld",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOEJzNEtCSC11cGZNQWdDMjNBeHJQQWFkNVFCVFg2OTdrM2tzZUoxeV9DeGRqTFdMSjM1em9lTmRhLVcyaHFtU0owNFFVWUFrRm9VNldsbTZxOEU3QUNfbEVIekZhWmZpS2ZvYXNWVlhGcVBvN2hEQkRubXU1elg3dUZuM1YwVHRpaS1uZDNKTU9aeVU4Ql9sTHJ5ejg?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMinAFBVV95cUxQOEJzNEtCSC11cGZNQWdDMjNBeHJQQWFkNVFCVFg2OTdrM2tzZUoxeV9DeGRqTFdMSjM1em9lTmRhLVcyaHFtU0owNFFVWUFrRm9VNldsbTZxOEU3QUNfbEVIekZhWmZpS2ZvYXNWVlhGcVBvN2hEQkRubXU1elg3dUZuM1YwVHRpaS1uZDNKTU9aeVU4Ql9sTHJ5ejg%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Search",
+          "type": "blue"
+        }
+      ],
+      "headline": "Live Sports Scores In Google AI Mode - Search Engine Roundtable",
+      "body": "Live Sports Scores In Google AI Mode  Search Engine Roundtable",
+      "source": {
+        "name": "Search Engine Roundtable",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVmxHdzJ0Ul9PZ2xhYkl5aXo2X0hrTHU0aUxoX2puMTBwamFUSzJ4b3N1cGMxcEhvN01NR2taUkMwTzlOYlQ3NkNSWmVMT0RqbGswSzd2cmZqRU5WaktyaXRMM2R0SlNIdzFQUW1QSGFManUwUWxja01qdGlWODk0elB3?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiggFBVV95cUxNVmxHdzJ0Ul9PZ2xhYkl5aXo2X0hrTHU0aUxoX2puMTBwamFUSzJ4b3N1cGMxcEhvN01NR2taUkMwTzlOYlQ3NkNSWmVMT0RqbGswSzd2cmZqRU5WaktyaXRMM2R0SlNIdzFQUW1QSGFManUwUWxja01qdGlWODk0elB3%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Gemini",
+          "type": "blue"
+        }
+      ],
+      "headline": "AI: Google Gemini AI rolls out 'Personal Intelligence' at scale. RTZ #1029 - AI: Reset to Zero",
+      "body": "AI: Google Gemini AI rolls out 'Personal Intelligence' at scale. RTZ #1029  AI: Reset to Zero",
+      "source": {
+        "name": "AI: Reset to Zero",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNDlJVmpyS0lqcHVKcWJTYnZvbUtHODRHelpxaXFPSENHN3c4NWw3OGFySHdFSHZLNUlxOVc2QV9jTkZNbFJDb1YzR0tid0ZWQmVFSXpzZ1lxSmJVOU5lMmVoZW9uSWg0QTZwZU1uOXJyNm5rQ3lRdkN4dDBJMC1vWg?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMigAFBVV95cUxPNDlJVmpyS0lqcHVKcWJTYnZvbUtHODRHelpxaXFPSENHN3c4NWw3OGFySHdFSHZLNUlxOVc2QV9jTkZNbFJDb1YzR0tid0ZWQmVFSXpzZ1lxSmJVOU5lMmVoZW9uSWg0QTZwZU1uOXJyNm5rQ3lRdkN4dDBJMC1vWg%3Foc%3D5"
     },
     {
       "tags": [
@@ -42,114 +87,50 @@
           "type": "blue"
         }
       ],
-      "headline": "Google rolling out Personal Intelligence to free Gemini, Chrome, & AI Mode users - 9to5Google",
-      "body": "Google rolling out Personal Intelligence to free Gemini, Chrome, & AI Mode users  9to5Google",
+      "headline": "Google Gemini app hits milestone in India! 450 million users amid free AI pro offer for students - MSN",
+      "body": "Google Gemini app hits milestone in India! 450 million users amid free AI pro offer for students  MSN",
       "source": {
-        "name": "9to5Google",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TMXo5Y1IyWXF3aUJpaFlYckVjOGZYa2h1S2tueFI5Qld1Q2Q0RGFtODFjY05oZFNSdXpHM2M4dkY5NnNJV3F2dml6N2pTYzRRWFNiVkNxQ1RDVkVKeWE0aG5vSlFXeVdwUF90M1pWdkJYN3BiZ0tV?oc=5"
+        "name": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOdUN6VzY5dkotMDRwcDhsWURtSHp5b0g0MjltQ0ltemhWUmFtSW4wVXFSckVvRlVkODlQUDQwNDRreWRwQUdLVzBuRmN1amlISzhQSnJJcnV6S2pWcHZya2JHdTJMS0ZzbXVqRE1HdFpHcUlsY00ta1U1Rm5yZzZTLV83U2FkcGtkbVhVZ2hnN1pRWDVzQ2xIRWRFNWVtb2o3SWg4dnZTczRqU0ZNMzd3eFdIUndjUmdaUWRMQUZGdVQwZzlCTnQ5Tm9mZHZzWktxYTZ2NlRkTnRrWmtraTgteC1yS0ZoYXFidWhEdnk2enRnVGFKMTVYY0VvMVliLXN6WG1rQ1AzeGQ2d1F2M1hILXhkVjJuMnJmQ3VCWDZrQXFwQXREbDZlTTM3Zk5HaHVrdjVMb2ljckhtR0docTJpYUpMMHY5eTBQN1JocWFiY0pnaVRNOVdva0oxYTBMYzh1Y0gtYkFCUC15SkVvbmg1U1VB?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMid0FVX3lxTE5TMXo5Y1IyWXF3aUJpaFlYckVjOGZYa2h1S2tueFI5Qld1Q2Q0RGFtODFjY05oZFNSdXpHM2M4dkY5NnNJV3F2dml6N2pTYzRRWFNiVkNxQ1RDVkVKeWE0aG5vSlFXeVdwUF90M1pWdkJYN3BiZ0tV%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Gemini",
-          "type": "blue"
-        }
-      ],
-      "headline": "Google makes Gemini personalization available to free users - Engadget",
-      "body": "Google makes Gemini personalization available to free users  Engadget",
-      "source": {
-        "name": "Engadget",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWDJLekUyMzdwSDQ3S2N5MzM1RkFZR3oyWUUtLTVRMlF6MERVTnhSUjNFUDNxQ3VEYlllQWQ0UWNiM2tfNVZmRzdWZDNqZmtneVN2anZFUzVrTVY1T2xkeU5PT0hIeTlBSnFpU1BVUUhOV1pZX2dFalZOY1lTT3dXLU44SDVienBJXzR1S0l3VVFTVFdMMVN4bnlNRkp1b1VOOUxpQw?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMipAFBVV95cUxPWDJLekUyMzdwSDQ3S2N5MzM1RkFZR3oyWUUtLTVRMlF6MERVTnhSUjNFUDNxQ3VEYlllQWQ0UWNiM2tfNVZmRzdWZDNqZmtneVN2anZFUzVrTVY1T2xkeU5PT0hIeTlBSnFpU1BVUUhOV1pZX2dFalZOY1lTT3dXLU44SDVienBJXzR1S0l3VVFTVFdMMVN4bnlNRkp1b1VOOUxpQw%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "DeepMind",
-          "type": "blue"
-        },
-        {
-          "label": "New",
-          "type": "red"
-        }
-      ],
-      "headline": "Google DeepMind Launches Project Genie for Interactive World Simulation (Video) - Thomasnet",
-      "body": "Google DeepMind Launches Project Genie for Interactive World Simulation (Video)  Thomasnet",
-      "source": {
-        "name": "Thomasnet",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDd05lalFJODlIZ21sTW5SQ1h5dm9uT0hGcVhVcmRUUklTSWRpN281dkVRaXJBNEREZkxlYTlQZ3hLbTFPZVMtMFR0R09GRGdlM3drbWtYcFkxNDFfNnMwSGNOdEM0R3d6S3R3aUdoWmhKMlk?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMic0FVX3lxTFBDd05lalFJODlIZ21sTW5SQ1h5dm9uT0hGcVhVcmRUUklTSWRpN281dkVRaXJBNEREZkxlYTlQZ3hLbTFPZVMtMFR0R09GRGdlM3drbWtYcFkxNDFfNnMwSGNOdEM0R3d6S3R3aUdoWmhKMlk%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Gemini",
-          "type": "blue"
-        }
-      ],
-      "headline": "Now everyone in the US is getting Google’s personalized Gemini AI - The Verge",
-      "body": "Now everyone in the US is getting Google’s personalized Gemini AI  The Verge",
-      "source": {
-        "name": "The Verge",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFVUY29SQ0llYlV1X1VQdndPam9id1E4dTVQQUZxLWlhNG9vVFB0dkh3SEg0RXBlQ2lBMGh5SlVMZ3l0RDdnOWpBekFRZnlMNGtQUGprOVNmSzVVN1BhSzVJV0I3X3gxdzQtOVh3SGtaZHRzdEdsSmp6RGtIclBGSDlfTjZ3d1BYbGpVMW93QWlaT1lpWjV3dk51RQ?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMimwFBVV95cUxNWFVUY29SQ0llYlV1X1VQdndPam9id1E4dTVQQUZxLWlhNG9vVFB0dkh3SEg0RXBlQ2lBMGh5SlVMZ3l0RDdnOWpBekFRZnlMNGtQUGprOVNmSzVVN1BhSzVJV0I3X3gxdzQtOVh3SGtaZHRzdEdsSmp6RGtIclBGSDlfTjZ3d1BYbGpVMW93QWlaT1lpWjV3dk51RQ%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Google",
-          "type": "blue"
-        },
-        {
-          "label": "New",
-          "type": "red"
-        }
-      ],
-      "headline": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab - blog.google",
-      "body": "Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab  blog.google",
-      "source": {
-        "name": "blog.google",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnRUUklvaG1LcThBdVhaVFFOZ0J5am9QYkRBSzdxM2hwelpzYTVKN3pZLXI2WkROblpHWVZFVUlzRUVrcnVPdmZsT19jWFVXVEtJYzN4ajdaZkNQb3V2eDlCd3g3aE40clQxa0tXSjIxUzlaR0gySndyOVZmTW51NzNMYVp6dmRKcVY0aU16RGVBTzJsVzJWQTNidG1kMjNnYzlXS2x3?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMipgFBVV95cUxPYnRUUklvaG1LcThBdVhaVFFOZ0J5am9QYkRBSzdxM2hwelpzYTVKN3pZLXI2WkROblpHWVZFVUlzRUVrcnVPdmZsT19jWFVXVEtJYzN4ajdaZkNQb3V2eDlCd3g3aE40clQxa0tXSjIxUzlaR0gySndyOVZmTW51NzNMYVp6dmRKcVY0aU16RGVBTzJsVzJWQTNidG1kMjNnYzlXS2x3%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi8gJBVV95cUxOdUN6VzY5dkotMDRwcDhsWURtSHp5b0g0MjltQ0ltemhWUmFtSW4wVXFSckVvRlVkODlQUDQwNDRreWRwQUdLVzBuRmN1amlISzhQSnJJcnV6S2pWcHZya2JHdTJMS0ZzbXVqRE1HdFpHcUlsY00ta1U1Rm5yZzZTLV83U2FkcGtkbVhVZ2hnN1pRWDVzQ2xIRWRFNWVtb2o3SWg4dnZTczRqU0ZNMzd3eFdIUndjUmdaUWRMQUZGdVQwZzlCTnQ5Tm9mZHZzWktxYTZ2NlRkTnRrWmtraTgteC1yS0ZoYXFidWhEdnk2enRnVGFKMTVYY0VvMVliLXN6WG1rQ1AzeGQ2d1F2M1hILXhkVjJuMnJmQ3VCWDZrQXFwQXREbDZlTTM3Zk5HaHVrdjVMb2ljckhtR0docTJpYUpMMHY5eTBQN1JocWFiY0pnaVRNOVdva0oxYTBMYzh1Y0gtYkFCUC15SkVvbmg1U1VB%3Foc%3D5"
     },
     {
       "tags": [
         {
           "label": "Cloud",
           "type": "blue"
+        },
+        {
+          "label": "New",
+          "type": "red"
         }
       ],
-      "headline": "Multi-cluster GKE Inference Gateway helps scale AI workloads - Google Cloud",
-      "body": "Multi-cluster GKE Inference Gateway helps scale AI workloads  Google Cloud",
+      "headline": "Kingfisher and Google Cloud Partner to Deliver AI-Powered Shopping Across UK and Europe - PR Newswire",
+      "body": "Kingfisher and Google Cloud Partner to Deliver AI-Powered Shopping Across UK and Europe  PR Newswire",
       "source": {
-        "name": "Google Cloud",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeWZQN0ZTeUExQXItbU1HY2x5VUsxc2tDVk1rdkIzaXgwaGFLTE13dUNycHdoT2Q3dVoxeFExTXNSYlZOb3I1dkx2bkpCZTZ6cmZRbXV2TWdkMXl3TF80WHBFUER3Q3MzY2ZHTUE3aTQ3LVBpU1lnSXlGMTgtY0F0ZGpZNHNJQ0RQbkVUWHFwcUlmenFRNkZRZDlVSEc3SmpFMlRBVmFHR29CdEJJVENrbjRhT09wOWU0S1VpR1V3?oc=5"
+        "name": "PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVGJwLXpTeGg1S1Y5a2RBeF85aDRUcWNoMzJxd2xLVV96NmNKekxIYzR2blBheVpnQUZxUTgxSExsRXQ2U0plZDZxR3VMbVJIdFBzQXFERER0ZlR5d1RIUjZoU0FMZG1OX3NfaXpjMTUxd284b3lRQU96bVBDTjljM3I5SXVvT25zS2M1bkVEN3FkbktyLUZycFRONDdRQndDb0VkeG53TGhiVjlyMTFSZER0bXMxMTVsNXFhWkVKaHNueGstWmR4cERvRWlRaHJZbUdHSEhBUTNOMGM?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMivgFBVV95cUxNeWZQN0ZTeUExQXItbU1HY2x5VUsxc2tDVk1rdkIzaXgwaGFLTE13dUNycHdoT2Q3dVoxeFExTXNSYlZOb3I1dkx2bkpCZTZ6cmZRbXV2TWdkMXl3TF80WHBFUER3Q3MzY2ZHTUE3aTQ3LVBpU1lnSXlGMTgtY0F0ZGpZNHNJQ0RQbkVUWHFwcUlmenFRNkZRZDlVSEc3SmpFMlRBVmFHR29CdEJJVENrbjRhT09wOWU0S1VpR1V3%3Foc%3D5"
-    }
-  ],
-  "anthropic": [
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi2wFBVV95cUxNVGJwLXpTeGg1S1Y5a2RBeF85aDRUcWNoMzJxd2xLVV96NmNKekxIYzR2blBheVpnQUZxUTgxSExsRXQ2U0plZDZxR3VMbVJIdFBzQXFERER0ZlR5d1RIUjZoU0FMZG1OX3NfaXpjMTUxd284b3lRQU96bVBDTjljM3I5SXVvT25zS2M1bkVEN3FkbktyLUZycFRONDdRQndDb0VkeG53TGhiVjlyMTFSZER0bXMxMTVsNXFhWkVKaHNueGstWmR4cERvRWlRaHJZbUdHSEhBUTNOMGM%3Foc%3D5"
+    },
     {
       "tags": [
         {
-          "label": "Claude",
-          "type": "amber"
+          "label": "Google",
+          "type": "blue"
         }
       ],
-      "headline": "Could a stressed-out AI model help us win the battle against big tech? Let me ask Claude | Coco Khan - The Guardian",
-      "body": "Could a stressed-out AI model help us win the battle against big tech? Let me ask Claude | Coco Khan  The Guardian",
+      "headline": "Microsoft’s Satya Nadella bet big on OpenAI and Copilot, now he’s reshuffling the AI deck - Fortune",
+      "body": "Microsoft’s Satya Nadella bet big on OpenAI and Copilot, now he’s reshuffling the AI deck  Fortune",
       "source": {
-        "name": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOUlxb1Zoam9HY2ZDRjNFYUxiOVFiYUE0VXNhcHR1X21DcWdnaXhRRXlWMHNnSWVaZm5GWG9SY3QtdW1rdXZ4bHhQa3lCUEk4SVhDcjZLeVNDbjFUaFVORjkwOEdrc3V4d1EwQWJjUmhKT0xvS2VyZFd0cEtnX0Jqc3R6TWxJazVJNHhZc2N4VHhsZ2U1c2JRZ3RmTVdtcGlJNDg4MDdNQVdxRVlHeXlIbQ?oc=5"
+        "name": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXVxNjdwZ1pCY2RBTHVQb2NzeFVKTHhnblBpSmxLN3BRWDJodnlxaVVrWU1QOFp5V0hQcHV2WTRPamNqUmpUY0NwcTN6RjhIajRBaGRzcEdGVGdIR29IbTdPbDlvYUxEeW1fQ2d5REh0SVZpSjhwdVAwS0F3NHY5YlJVV1E3N1ZLaXFJdnN2ZW1UQnNYUlJuSnpjMlExeDA?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMisAFBVV95cUxPOUlxb1Zoam9HY2ZDRjNFYUxiOVFiYUE0VXNhcHR1X21DcWdnaXhRRXlWMHNnSWVaZm5GWG9SY3QtdW1rdXZ4bHhQa3lCUEk4SVhDcjZLeVNDbjFUaFVORjkwOEdrc3V4d1EwQWJjUmhKT0xvS2VyZFd0cEtnX0Jqc3R6TWxJazVJNHhZc2N4VHhsZ2U1c2JRZ3RmTVdtcGlJNDg4MDdNQVdxRVlHeXlIbQ%3Foc%3D5"
-    },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMinwFBVV95cUxNdXVxNjdwZ1pCY2RBTHVQb2NzeFVKTHhnblBpSmxLN3BRWDJodnlxaVVrWU1QOFp5V0hQcHV2WTRPamNqUmpUY0NwcTN6RjhIajRBaGRzcEdGVGdIR29IbTdPbDlvYUxEeW1fQ2d5REh0SVZpSjhwdVAwS0F3NHY5YlJVV1E3N1ZLaXFJdnN2ZW1UQnNYUlJuSnpjMlExeDA%3Foc%3D5"
+    }
+  ],
+  "anthropic": [
     {
       "tags": [
         {
@@ -168,17 +149,32 @@
     {
       "tags": [
         {
+          "label": "Claude",
+          "type": "amber"
+        }
+      ],
+      "headline": "Could a stressed-out AI model help us win the battle against big tech? Let me ask Claude | Coco Khan - The Guardian",
+      "body": "Could a stressed-out AI model help us win the battle against big tech? Let me ask Claude | Coco Khan  The Guardian",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOUlxb1Zoam9HY2ZDRjNFYUxiOVFiYUE0VXNhcHR1X21DcWdnaXhRRXlWMHNnSWVaZm5GWG9SY3QtdW1rdXZ4bHhQa3lCUEk4SVhDcjZLeVNDbjFUaFVORjkwOEdrc3V4d1EwQWJjUmhKT0xvS2VyZFd0cEtnX0Jqc3R6TWxJazVJNHhZc2N4VHhsZ2U1c2JRZ3RmTVdtcGlJNDg4MDdNQVdxRVlHeXlIbQ?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMisAFBVV95cUxPOUlxb1Zoam9HY2ZDRjNFYUxiOVFiYUE0VXNhcHR1X21DcWdnaXhRRXlWMHNnSWVaZm5GWG9SY3QtdW1rdXZ4bHhQa3lCUEk4SVhDcjZLeVNDbjFUaFVORjkwOEdrc3V4d1EwQWJjUmhKT0xvS2VyZFd0cEtnX0Jqc3R6TWxJazVJNHhZc2N4VHhsZ2U1c2JRZ3RmTVdtcGlJNDg4MDdNQVdxRVlHeXlIbQ%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
           "label": "Anthropic",
           "type": "amber"
         }
       ],
-      "headline": "Trump Administration Vows Legal Fight on Anthropic AI Tool Ban - Bloomberg.com",
-      "body": "Trump Administration Vows Legal Fight on Anthropic AI Tool Ban  Bloomberg.com",
+      "headline": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems - WIRED",
+      "body": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems  WIRED",
       "source": {
-        "name": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWhZMG5BdlFGU2gwWGlGcXR5NDRxWHpMZVNaSjhyWno4cXFzUXg4OHBFUUhqcGpVNnVpSmRsaS1QT1A1amZCa1BNVTNjOWFybmNfVE1BaUxUc1NxeFBSY1ZGNFA4ZFFZREtXWXNuN0s2ZEV2U2Q1RlJhYXJrRnhPYXRFbzIwSFVWYVJaSnZIdnQxaTI4V1NHbGx1eVJZOG9FRG5tZUxXbXdIRTRQUUpNTU9PMA?oc=5"
+        "name": "WIRED",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDNBUWxFRDllUE9yU0VjM0kwcG9Ra3QySDFrU3I5UVU2NjZEZUozZnA0dWVxekhweE1LM1I2ejF2bGdpUVJ4Sjhia3RCU2xQNW1XYzE5U1lsZXVzcGRVQXdSTnJMRXk0RkQ3cmhkSWNBaU1OaENuTnlnaXRYTXRKaHcxMzJtdmM?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiswFBVV95cUxPOWhZMG5BdlFGU2gwWGlGcXR5NDRxWHpMZVNaSjhyWno4cXFzUXg4OHBFUUhqcGpVNnVpSmRsaS1QT1A1amZCa1BNVTNjOWFybmNfVE1BaUxUc1NxeFBSY1ZGNFA4ZFFZREtXWXNuN0s2ZEV2U2Q1RlJhYXJrRnhPYXRFbzIwSFVWYVJaSnZIdnQxaTI4V1NHbGx1eVJZOG9FRG5tZUxXbXdIRTRQUUpNTU9PMA%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMihwFBVV95cUxOZDNBUWxFRDllUE9yU0VjM0kwcG9Ra3QySDFrU3I5UVU2NjZEZUozZnA0dWVxekhweE1LM1I2ejF2bGdpUVJ4Sjhia3RCU2xQNW1XYzE5U1lsZXVzcGRVQXdSTnJMRXk0RkQ3cmhkSWNBaU1OaENuTnlnaXRYTXRKaHcxMzJtdmM%3Foc%3D5"
     },
     {
       "tags": [
@@ -202,6 +198,36 @@
     {
       "tags": [
         {
+          "label": "Anthropic",
+          "type": "amber"
+        }
+      ],
+      "headline": "By refusing the Pentagon, Anthropic holds moral line on AI - National Catholic Reporter",
+      "body": "By refusing the Pentagon, Anthropic holds moral line on AI  National Catholic Reporter",
+      "source": {
+        "name": "National Catholic Reporter",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXFqYVZJLV8xSVNzc1NfdUJiTi1vMkl2YWxqb0hTV1pYQ0FOTlJOWS1CVjRSNmQ1UF8xY040SzBacXRNOGRGUGdHYjU3bnRGNmlhSnN6bkJjV0V4dnpsMGtXV1lDOW0xa3ExaU03ZzBtYjBGdzFOYVdscE1pcm5wR1NXLU8yQ0ttUTFZcm5sMzBKTmJibTRkdjZn?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMimgFBVV95cUxOTXFqYVZJLV8xSVNzc1NfdUJiTi1vMkl2YWxqb0hTV1pYQ0FOTlJOWS1CVjRSNmQ1UF8xY040SzBacXRNOGRGUGdHYjU3bnRGNmlhSnN6bkJjV0V4dnpsMGtXV1lDOW0xa3ExaU03ZzBtYjBGdzFOYVdscE1pcm5wR1NXLU8yQ0ttUTFZcm5sMzBKTmJibTRkdjZn%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Anthropic",
+          "type": "amber"
+        }
+      ],
+      "headline": "The AI spending flip - Axios",
+      "body": "The AI spending flip  Axios",
+      "source": {
+        "name": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ta2Z4dnJJTGl6M0lTZjI3NTdkbGRtY3B6YzJpNlp5Rmp5TGsxR3JhcnlQNkFqVlpvcVpRZjRPSWVEN18tZ2ZMTEc5R0dWMUVfY29HeHV5WlI3X2hOZXVVd2R4WFpTRG42RGtNTldwVWxzWGs2LUplYW1oWQ?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMie0FVX3lxTE5Ta2Z4dnJJTGl6M0lTZjI3NTdkbGRtY3B6YzJpNlp5Rmp5TGsxR3JhcnlQNkFqVlpvcVpRZjRPSWVEN18tZ2ZMTEc5R0dWMUVfY29HeHV5WlI3X2hOZXVVd2R4WFpTRG42RGtNTldwVWxzWGs2LUplYW1oWQ%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
           "label": "Claude",
           "type": "amber"
         }
@@ -221,43 +247,13 @@
           "type": "amber"
         }
       ],
-      "headline": "US: Pentagon labels AI company Anthropic a supply chain risk - dw.com",
-      "body": "US: Pentagon labels AI company Anthropic a supply chain risk  dw.com",
+      "headline": "Trump Administration Vows Legal Fight on Anthropic AI Tool Ban - Bloomberg.com",
+      "body": "Trump Administration Vows Legal Fight on Anthropic AI Tool Ban  Bloomberg.com",
       "source": {
-        "name": "dw.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGpUX1hNLThQT2JvaEtnY2tVZkNfQmowQ1NRcjBTQ29TX1M3a1FHZDNlRUs3ZlY2YVVRMnNnRVU1UXYxbEhqRGo2cDRNX3VMZzVNOGZvamhzbGg1NEUtWEVfZGRiMXgtSFZ6NHNWR29fWWhqazlXYW0ycnh6Mm1IR1ZGaWNjM0dURXpoMW9UdUlubmY2RjBV0gGXAUFVX3lxTFBQVlBBMktobHFyU2ZVQkgxS21Cei1TZDlqS29uR295OE5keGFHYUFLTy1JbVROZDFxY3pxb19PQTZuMzR5MkJJa3dvNVRGLVZGamdsN1pRZ2duWldaZG1mbWd3YW1EQTg4R2Q5RlF6bjB2b0tIbXZYeUg4OGVEUGh4aGtadlRIWEEzMEhEa3pKMEg4ZUE3OWc?oc=5"
+        "name": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWhZMG5BdlFGU2gwWGlGcXR5NDRxWHpMZVNaSjhyWno4cXFzUXg4OHBFUUhqcGpVNnVpSmRsaS1QT1A1amZCa1BNVTNjOWFybmNfVE1BaUxUc1NxeFBSY1ZGNFA4ZFFZREtXWXNuN0s2ZEV2U2Q1RlJhYXJrRnhPYXRFbzIwSFVWYVJaSnZIdnQxaTI4V1NHbGx1eVJZOG9FRG5tZUxXbXdIRTRQUUpNTU9PMA?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilwFBVV95cUxPMGpUX1hNLThQT2JvaEtnY2tVZkNfQmowQ1NRcjBTQ29TX1M3a1FHZDNlRUs3ZlY2YVVRMnNnRVU1UXYxbEhqRGo2cDRNX3VMZzVNOGZvamhzbGg1NEUtWEVfZGRiMXgtSFZ6NHNWR29fWWhqazlXYW0ycnh6Mm1IR1ZGaWNjM0dURXpoMW9UdUlubmY2RjBV0gGXAUFVX3lxTFBQVlBBMktobHFyU2ZVQkgxS21Cei1TZDlqS29uR295OE5keGFHYUFLTy1JbVROZDFxY3pxb19PQTZuMzR5MkJJa3dvNVRGLVZGamdsN1pRZ2duWldaZG1mbWd3YW1EQTg4R2Q5RlF6bjB2b0tIbXZYeUg4OGVEUGh4aGtadlRIWEEzMEhEa3pKMEg4ZUE3OWc%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Anthropic",
-          "type": "amber"
-        }
-      ],
-      "headline": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems - WIRED",
-      "body": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems  WIRED",
-      "source": {
-        "name": "WIRED",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDNBUWxFRDllUE9yU0VjM0kwcG9Ra3QySDFrU3I5UVU2NjZEZUozZnA0dWVxekhweE1LM1I2ejF2bGdpUVJ4Sjhia3RCU2xQNW1XYzE5U1lsZXVzcGRVQXdSTnJMRXk0RkQ3cmhkSWNBaU1OaENuTnlnaXRYTXRKaHcxMzJtdmM?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMihwFBVV95cUxOZDNBUWxFRDllUE9yU0VjM0kwcG9Ra3QySDFrU3I5UVU2NjZEZUozZnA0dWVxekhweE1LM1I2ejF2bGdpUVJ4Sjhia3RCU2xQNW1XYzE5U1lsZXVzcGRVQXdSTnJMRXk0RkQ3cmhkSWNBaU1OaENuTnlnaXRYTXRKaHcxMzJtdmM%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Anthropic",
-          "type": "amber"
-        }
-      ],
-      "headline": "Trump administration defends Anthropic blacklisting in US court - Al Jazeera",
-      "body": "Trump administration defends Anthropic blacklisting in US court  Al Jazeera",
-      "source": {
-        "name": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY2ZXQ3dJZHRSWWYzSkdmTWtCMk01TXhzZlB2b2N6XzIySy1ieDJMeDNGVVFNZXhtRmpOc0h2eGtfa0E4MHZPN3FOX1YwRk5oYkNCTHE4U0tQUFliQVNudV9LV2Zvd0djN2h2NWlveFVJcm90azltZTNmaEplYndGWFllNXFKeXM1SDBoTUhLaUR3Z0FvOEFCTUh1M1ZVbVdoNTRXcDMtaTJobUXSAbABQVVfeXFMT3pzeEYwNk9QcWRnYXVXUUhMY3dDLXhESmRVdnBkQ2lDTXZybHJpb0NVTHJER2tDellkUjVHam03TEwwWlQxU3JSVDNITkt6N2liZjh0dUNGTWJvLVZzUnVyR242RWdNUGxEZmNFY1pINHRpOUdwZW5xSEE0c0htNlFnYnlsNlctRU1pRTdaWnpkd1k1TlYyTmIzZ0FoeFhDREhaN282aXlLVVNoVktyRm0?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiqwFBVV95cUxQY2ZXQ3dJZHRSWWYzSkdmTWtCMk01TXhzZlB2b2N6XzIySy1ieDJMeDNGVVFNZXhtRmpOc0h2eGtfa0E4MHZPN3FOX1YwRk5oYkNCTHE4U0tQUFliQVNudV9LV2Zvd0djN2h2NWlveFVJcm90azltZTNmaEplYndGWFllNXFKeXM1SDBoTUhLaUR3Z0FvOEFCTUh1M1ZVbVdoNTRXcDMtaTJobUXSAbABQVVfeXFMT3pzeEYwNk9QcWRnYXVXUUhMY3dDLXhESmRVdnBkQ2lDTXZybHJpb0NVTHJER2tDellkUjVHam03TEwwWlQxU3JSVDNITkt6N2liZjh0dUNGTWJvLVZzUnVyR242RWdNUGxEZmNFY1pINHRpOUdwZW5xSEE0c0htNlFnYnlsNlctRU1pRTdaWnpkd1k1TlYyTmIzZ0FoeFhDREhaN282aXlLVVNoVktyRm0%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiswFBVV95cUxPOWhZMG5BdlFGU2gwWGlGcXR5NDRxWHpMZVNaSjhyWno4cXFzUXg4OHBFUUhqcGpVNnVpSmRsaS1QT1A1amZCa1BNVTNjOWFybmNfVE1BaUxUc1NxeFBSY1ZGNFA4ZFFZREtXWXNuN0s2ZEV2U2Q1RlJhYXJrRnhPYXRFbzIwSFVWYVJaSnZIdnQxaTI4V1NHbGx1eVJZOG9FRG5tZUxXbXdIRTRQUUpNTU9PMA%3Foc%3D5"
     }
   ],
   "upcoming": [],
@@ -273,7 +269,7 @@
       "color": "c-amber"
     },
     {
-      "value": "13:50",
+      "value": "20:40",
       "label": "最終更新時刻",
       "color": "c-violet"
     },
