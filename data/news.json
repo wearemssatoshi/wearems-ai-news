@@ -1,40 +1,6 @@
 {
-  "lastUpdated": "2026-03-19T13:48:25.811054+09:00",
+  "lastUpdated": "2026-03-19T20:30:29.436955+09:00",
   "google": [
-    {
-      "tags": [
-        {
-          "label": "Google",
-          "type": "blue"
-        }
-      ],
-      "headline": "'My son’s AI wife said it loved him. Then it encouraged him to die' - The Times",
-      "body": "'My son’s AI wife said it loved him. Then it encouraged him to die'  The Times",
-      "source": {
-        "name": "The Times",
-        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQNm1WWmhzb3RlcUEzRDQwMmFycl9jdWhaZVlBNEFudzZBYkRVbDVwRUpOX215MFA3cHNmcDEtUVRZelpKcUd6SGtzbThIQ3R1aTZNYlJfV0lER2t1UzFwLWVXdzNDRUNxRHQtSjMwZlBUNTVUQXZYODRYQU9mYUdjbVQ2eHlBc3hJQkxQZ3VyZzdxSVV1b3ZMLS14bGFVN25yZExMR3kxVlRiYl9CUzBwdEJib1JOdWtrOVZfWkJJaGd3d3ZtUkx1bjdWdlM4VzRVcDBkTTVqYzFBY1ExS0Y1RGJwc1BwXzF5aWZKZlJoMHp2SGhtbXRINWg4R20wY1VLUUxjVWIzR0lIVlZheTFobmI4a1ZuQVZ5dXhQTjVPQUZGM3RlN3dhbVVhS3hoRkQtY0VSNnZma1dDaUJCWTJLdXpSNUtLRGhUeG5rYmppV0JiMFhRd05iU2hDVDUySjBnYWZQNXc0d0dkSG1XMlhzOGc3UTE3M1FoZGRKSHpMUndJNUV4M3AxVGlzUmt2X2hTNFdYSmY5eXhfbnNGdnBlNFVLOEo?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMipANBVV95cUxQNm1WWmhzb3RlcUEzRDQwMmFycl9jdWhaZVlBNEFudzZBYkRVbDVwRUpOX215MFA3cHNmcDEtUVRZelpKcUd6SGtzbThIQ3R1aTZNYlJfV0lER2t1UzFwLWVXdzNDRUNxRHQtSjMwZlBUNTVUQXZYODRYQU9mYUdjbVQ2eHlBc3hJQkxQZ3VyZzdxSVV1b3ZMLS14bGFVN25yZExMR3kxVlRiYl9CUzBwdEJib1JOdWtrOVZfWkJJaGd3d3ZtUkx1bjdWdlM4VzRVcDBkTTVqYzFBY1ExS0Y1RGJwc1BwXzF5aWZKZlJoMHp2SGhtbXRINWg4R20wY1VLUUxjVWIzR0lIVlZheTFobmI4a1ZuQVZ5dXhQTjVPQUZGM3RlN3dhbVVhS3hoRkQtY0VSNnZma1dDaUJCWTJLdXpSNUtLRGhUeG5rYmppV0JiMFhRd05iU2hDVDUySjBnYWZQNXc0d0dkSG1XMlhzOGc3UTE3M1FoZGRKSHpMUndJNUV4M3AxVGlzUmt2X2hTNFdYSmY5eXhfbnNGdnBlNFVLOEo%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Google",
-          "type": "blue"
-        },
-        {
-          "label": "New",
-          "type": "red"
-        }
-      ],
-      "headline": "Introducing “vibe design” with Stitch - blog.google",
-      "body": "Introducing “vibe design” with Stitch  blog.google",
-      "source": {
-        "name": "blog.google",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkJaSndfYzVGb3ZaTERNMXVGS0Y5UzI0OEhlclFzWHg1N1ZnNjVNRm9mblJ4OUl4RW1YOUktcVlMNnFpSm5HeHpqb2ZHZm0wd3gwVWNPQTR0cE0xSks3Rm1MWktmT3liblVVRUVuZjNmSkJkRnZlY2o4SDJGeXRlQXZiRGdhSzJxeWpvcnZOS0kxdHlq?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilAFBVV95cUxOYkJaSndfYzVGb3ZaTERNMXVGS0Y5UzI0OEhlclFzWHg1N1ZnNjVNRm9mblJ4OUl4RW1YOUktcVlMNnFpSm5HeHpqb2ZHZm0wd3gwVWNPQTR0cE0xSks3Rm1MWktmT3liblVVRUVuZjNmSkJkRnZlY2o4SDJGeXRlQXZiRGdhSzJxeWpvcnZOS0kxdHlq%3Foc%3D5"
-    },
     {
       "tags": [
         {
@@ -80,6 +46,40 @@
           "type": "red"
         }
       ],
+      "headline": "Introducing “vibe design” with Stitch - blog.google",
+      "body": "Introducing “vibe design” with Stitch  blog.google",
+      "source": {
+        "name": "blog.google",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkJaSndfYzVGb3ZaTERNMXVGS0Y5UzI0OEhlclFzWHg1N1ZnNjVNRm9mblJ4OUl4RW1YOUktcVlMNnFpSm5HeHpqb2ZHZm0wd3gwVWNPQTR0cE0xSks3Rm1MWktmT3liblVVRUVuZjNmSkJkRnZlY2o4SDJGeXRlQXZiRGdhSzJxeWpvcnZOS0kxdHlq?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilAFBVV95cUxOYkJaSndfYzVGb3ZaTERNMXVGS0Y5UzI0OEhlclFzWHg1N1ZnNjVNRm9mblJ4OUl4RW1YOUktcVlMNnFpSm5HeHpqb2ZHZm0wd3gwVWNPQTR0cE0xSks3Rm1MWktmT3liblVVRUVuZjNmSkJkRnZlY2o4SDJGeXRlQXZiRGdhSzJxeWpvcnZOS0kxdHlq%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Google",
+          "type": "blue"
+        }
+      ],
+      "headline": "'My son’s AI wife said it loved him. Then it encouraged him to die' - The Times",
+      "body": "'My son’s AI wife said it loved him. Then it encouraged him to die'  The Times",
+      "source": {
+        "name": "The Times",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNVlVfN3J3WFZFc2lIbVBON1pYSmdMQVpDMnFUZ0l3a3Fwc3ZFQVd2VU02WHFiaFludWdUMHRlWENWWFN0RnJKUXItTUptaWxLR1czdkFMZmt4MTA2U1YtejI2UTYzQlJSV1VhcGdXOGdiU0NfZVlyUWRHNUkycjdpMWtkZ0FObHpwV0hQNnhaY2FLQUlKTnBFNzV5UlZsUkp5OElpeUdrQWRTcVVQWHQ2ZVdqVWRwWDQ5Nkw3QW96UHF2V2FzXzJNVnBnV0FXQVFKbmxGVGdKR09UZGRvckpaRDNTM0tCUWFOcXhfRXRzb0lnOFFIMFJRWF9ROTc0U0o0LWJudC0zbVRWd1IwZGVOTkFiTU9pNmdIU1FJbFpoNHFuTVEtTUlsYnRZYVMzemlwQ2VnMWFWd0tlYU9JWEZka0oycWdxV3FLcmhVYnl3V3lUNmlOaTZtUnBKQ1BoallTZUZfZ3dvWW15WGZiaGUwV0g2YXhqOXotSjd4dHRwcDdKY0ZrTk5kaU5va1E0dzZnZHpYcXRDVFNDQk85aTBOUERXY2s?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMipANBVV95cUxNVlVfN3J3WFZFc2lIbVBON1pYSmdMQVpDMnFUZ0l3a3Fwc3ZFQVd2VU02WHFiaFludWdUMHRlWENWWFN0RnJKUXItTUptaWxLR1czdkFMZmt4MTA2U1YtejI2UTYzQlJSV1VhcGdXOGdiU0NfZVlyUWRHNUkycjdpMWtkZ0FObHpwV0hQNnhaY2FLQUlKTnBFNzV5UlZsUkp5OElpeUdrQWRTcVVQWHQ2ZVdqVWRwWDQ5Nkw3QW96UHF2V2FzXzJNVnBnV0FXQVFKbmxGVGdKR09UZGRvckpaRDNTM0tCUWFOcXhfRXRzb0lnOFFIMFJRWF9ROTc0U0o0LWJudC0zbVRWd1IwZGVOTkFiTU9pNmdIU1FJbFpoNHFuTVEtTUlsYnRZYVMzemlwQ2VnMWFWd0tlYU9JWEZka0oycWdxV3FLcmhVYnl3V3lUNmlOaTZtUnBKQ1BoallTZUZfZ3dvWW15WGZiaGUwV0g2YXhqOXotSjd4dHRwcDdKY0ZrTk5kaU5va1E0dzZnZHpYcXRDVFNDQk85aTBOUERXY2s%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Google",
+          "type": "blue"
+        },
+        {
+          "label": "New",
+          "type": "red"
+        }
+      ],
       "headline": "Google Sits Pretty as A.I. Rivals Compete for Pentagon Favor - The New York Times",
       "body": "Google Sits Pretty as A.I. Rivals Compete for Pentagon Favor  The New York Times",
       "source": {
@@ -91,17 +91,21 @@
     {
       "tags": [
         {
-          "label": "Gemini",
+          "label": "Google",
           "type": "blue"
+        },
+        {
+          "label": "New",
+          "type": "red"
         }
       ],
-      "headline": "Google brings Gemini’s cross-app personalization to free users - eMarketer",
-      "body": "Google brings Gemini’s cross-app personalization to free users  eMarketer",
+      "headline": "Education - Punchbowl News",
+      "body": "Education  Punchbowl News",
       "source": {
-        "name": "eMarketer",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS1NjQ0tzRHBsWnQ4dld3NURJOFluTzNZdGUwcU1jZHUwR25QMDFvcEhxejdzM3lKbGJpTkhWeDZrUUhBSjNDRW9CQmNyNmdJVHEtMnhrNnFnU0tSWFJBMnEtdERjaC1TdkpMQ3hzRXJOZG1TX3lkcGptQzBLYjRaTTRQa2tSX00zcU1GU3ZVMTNKWjJDenc?oc=5"
+        "name": "Punchbowl News",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IckNwMDR5Q21XbnVGOTFoYVdhN043WmVYQUFIcTVVWGgxYTFCRDFwNXRrM0doZEt5VndubGxkdG5kMWU3eXhkbzZBbkJsdEJFaVFKNnJFV0Nwd2c?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilgFBVV95cUxQS1NjQ0tzRHBsWnQ4dld3NURJOFluTzNZdGUwcU1jZHUwR25QMDFvcEhxejdzM3lKbGJpTkhWeDZrUUhBSjNDRW9CQmNyNmdJVHEtMnhrNnFnU0tSWFJBMnEtdERjaC1TdkpMQ3hzRXJOZG1TX3lkcGptQzBLYjRaTTRQa2tSX00zcU1GU3ZVMTNKWjJDenc%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiW0FVX3lxTE1IckNwMDR5Q21XbnVGOTFoYVdhN043WmVYQUFIcTVVWGgxYTFCRDFwNXRrM0doZEt5VndubGxkdG5kMWU3eXhkbzZBbkJsdEJFaVFKNnJFV0Nwd2c%3Foc%3D5"
     },
     {
       "tags": [
@@ -110,10 +114,10 @@
           "type": "blue"
         }
       ],
-      "headline": "Google Deepmind upgrades Gemini API with multi-tool chaining and context circulation - The Decoder",
-      "body": "Google Deepmind upgrades Gemini API with multi-tool chaining and context circulation  The Decoder",
+      "headline": "Google Deepmind upgrades Gemini API with multi-tool chaining and context circulation - the-decoder.com",
+      "body": "Google Deepmind upgrades Gemini API with multi-tool chaining and context circulation  the-decoder.com",
       "source": {
-        "name": "The Decoder",
+        "name": "the-decoder.com",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWNfODJMczFYT1U0cGlCekFvRDMtNTRHWEJCZzhZYUc3bFpiTVpoa3gtM3cwWk8wM0EzS3Q4YzVLSmh1SEtiRzdDRTlXbU9ZcUU0ZnhUVEtQNk8yLXFJelNJZGI3bmtmOW5CbnFyTUVWTzhJNzN5U0RfcnZDMEFRcjhpRWg2RDN2SDBoa0pEN3pUdFRkMV95SW1aUVA4RVBQUkNvbmZzZ2tYb0VzNmc?oc=5"
       },
       "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirgFBVV95cUxPZWNfODJMczFYT1U0cGlCekFvRDMtNTRHWEJCZzhZYUc3bFpiTVpoa3gtM3cwWk8wM0EzS3Q4YzVLSmh1SEtiRzdDRTlXbU9ZcUU0ZnhUVEtQNk8yLXFJelNJZGI3bmtmOW5CbnFyTUVWTzhJNzN5U0RfcnZDMEFRcjhpRWg2RDN2SDBoa0pEN3pUdFRkMV95SW1aUVA4RVBQUkNvbmZzZ2tYb0VzNmc%3Foc%3D5"
@@ -121,20 +125,39 @@
     {
       "tags": [
         {
-          "label": "Gemini",
+          "label": "Google",
           "type": "blue"
+        },
+        {
+          "label": "Business",
+          "type": "violet"
         }
       ],
-      "headline": "2026 NCAA Tournament bracket projections: Comparing March Madness AI picks by ChatGPT, Copilot, Gemini - CBS Sports",
-      "body": "2026 NCAA Tournament bracket projections: Comparing March Madness AI picks by ChatGPT, Copilot, Gemini  CBS Sports",
+      "headline": "Google Partners with DocMorris on AI Health Platform for Europe - The Tech Buzz",
+      "body": "Google Partners with DocMorris on AI Health Platform for Europe  The Tech Buzz",
       "source": {
-        "name": "CBS Sports",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbmdxajJtYUdBNUptcmV6V3E1SGw3dWtmQ25fbEl2ZGt5alE1N0gyNG1aSkJzWHZEeUt0Q1hvWjhkcXgxc0xTMGNDREk1SkU4ZXdXai02Wnc4dUYtX1M2Q1FBNkgxQnFuMFNSTm5JaUhNbkJ4ZkFmb0I3RE9qamd2WEE4OFRxbzVqQS1mc2dBNUY0bkhyUjQ4UzdWMkdSWXphUi1NaW4xS3FxdmxFbXh6eTMtSlJ0OVFVRnpSWHJXOXBFZ3BkcW56NHM3ZVBja0Vzb2tlSDRn?oc=5"
+        "name": "The Tech Buzz",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeG5KeF9QS3R2N3FlODVNLVJ1N3lrTGJwQ05hR1V2VVRnMTd2eFJPUE0wSDliNXROMnZKOWlLZXp6bURLRUUzcjRFdGZRc0xSa0tzN3Q3bm1EcVRNaG4taW5LQXk3NGNmbVBYQWtrZXJZQ2Jpb0JHMng5NnBhaFUxUUx0eW1ROWRmZ3Y2QXpWUnc0dzlqZ2dBOXBtM00?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi1gFBVV95cUxNbmdxajJtYUdBNUptcmV6V3E1SGw3dWtmQ25fbEl2ZGt5alE1N0gyNG1aSkJzWHZEeUt0Q1hvWjhkcXgxc0xTMGNDREk1SkU4ZXdXai02Wnc4dUYtX1M2Q1FBNkgxQnFuMFNSTm5JaUhNbkJ4ZkFmb0I3RE9qamd2WEE4OFRxbzVqQS1mc2dBNUY0bkhyUjQ4UzdWMkdSWXphUi1NaW4xS3FxdmxFbXh6eTMtSlJ0OVFVRnpSWHJXOXBFZ3BkcW56NHM3ZVBja0Vzb2tlSDRn%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMinAFBVV95cUxOeG5KeF9QS3R2N3FlODVNLVJ1N3lrTGJwQ05hR1V2VVRnMTd2eFJPUE0wSDliNXROMnZKOWlLZXp6bURLRUUzcjRFdGZRc0xSa0tzN3Q3bm1EcVRNaG4taW5LQXk3NGNmbVBYQWtrZXJZQ2Jpb0JHMng5NnBhaFUxUUx0eW1ROWRmZ3Y2QXpWUnc0dzlqZ2dBOXBtM00%3Foc%3D5"
     }
   ],
   "anthropic": [
+    {
+      "tags": [
+        {
+          "label": "Claude",
+          "type": "amber"
+        }
+      ],
+      "headline": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy - Reuters",
+      "body": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy  Reuters",
+      "source": {
+        "name": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFJrV0xVbWxrMEFfNDlOYUFlUG1HU29peWJjZkotck9jQkw5VHJPRmxpY2NlUV9YUnVFMEszMHYyVllsdEFwVkk5aF9pdkpHMi0yY1ZhbHBWNmZ3R3RIM0xRTG9rMzdqQVpCa1ZPbEpXS1BxZmlhc2RGbkxELTJkRUV1OUlVWDNKdzdfc0RGQlFmLXM2UHNsYUNMYU1IejVCSEhZSk1HajBNc2J0YkVZWHExMk9RcV8taFFONC1oUVZoYXM?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiwwFBVV95cUxOSFJrV0xVbWxrMEFfNDlOYUFlUG1HU29peWJjZkotck9jQkw5VHJPRmxpY2NlUV9YUnVFMEszMHYyVllsdEFwVkk5aF9pdkpHMi0yY1ZhbHBWNmZ3R3RIM0xRTG9rMzdqQVpCa1ZPbEpXS1BxZmlhc2RGbkxELTJkRUV1OUlVWDNKdzdfc0RGQlFmLXM2UHNsYUNMYU1IejVCSEhZSk1HajBNc2J0YkVZWHExMk9RcV8taFFONC1oUVZoYXM%3Foc%3D5"
+    },
     {
       "tags": [
         {
@@ -142,13 +165,51 @@
           "type": "amber"
         }
       ],
-      "headline": "US: Pentagon labels AI company Anthropic a supply chain risk - DW.com",
-      "body": "US: Pentagon labels AI company Anthropic a supply chain risk  DW.com",
+      "headline": "US: Pentagon labels AI company Anthropic a supply chain risk - dw.com",
+      "body": "US: Pentagon labels AI company Anthropic a supply chain risk  dw.com",
       "source": {
-        "name": "DW.com",
+        "name": "dw.com",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGpUX1hNLThQT2JvaEtnY2tVZkNfQmowQ1NRcjBTQ29TX1M3a1FHZDNlRUs3ZlY2YVVRMnNnRVU1UXYxbEhqRGo2cDRNX3VMZzVNOGZvamhzbGg1NEUtWEVfZGRiMXgtSFZ6NHNWR29fWWhqazlXYW0ycnh6Mm1IR1ZGaWNjM0dURXpoMW9UdUlubmY2RjBV0gGXAUFVX3lxTFBQVlBBMktobHFyU2ZVQkgxS21Cei1TZDlqS29uR295OE5keGFHYUFLTy1JbVROZDFxY3pxb19PQTZuMzR5MkJJa3dvNVRGLVZGamdsN1pRZ2duWldaZG1mbWd3YW1EQTg4R2Q5RlF6bjB2b0tIbXZYeUg4OGVEUGh4aGtadlRIWEEzMEhEa3pKMEg4ZUE3OWc?oc=5"
       },
       "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilwFBVV95cUxPMGpUX1hNLThQT2JvaEtnY2tVZkNfQmowQ1NRcjBTQ29TX1M3a1FHZDNlRUs3ZlY2YVVRMnNnRVU1UXYxbEhqRGo2cDRNX3VMZzVNOGZvamhzbGg1NEUtWEVfZGRiMXgtSFZ6NHNWR29fWWhqazlXYW0ycnh6Mm1IR1ZGaWNjM0dURXpoMW9UdUlubmY2RjBV0gGXAUFVX3lxTFBQVlBBMktobHFyU2ZVQkgxS21Cei1TZDlqS29uR295OE5keGFHYUFLTy1JbVROZDFxY3pxb19PQTZuMzR5MkJJa3dvNVRGLVZGamdsN1pRZ2duWldaZG1mbWd3YW1EQTg4R2Q5RlF6bjB2b0tIbXZYeUg4OGVEUGh4aGtadlRIWEEzMEhEa3pKMEg4ZUE3OWc%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Anthropic",
+          "type": "amber"
+        },
+        {
+          "label": "New",
+          "type": "red"
+        }
+      ],
+      "headline": "How the military is using AI in war - CBS News",
+      "body": "How the military is using AI in war  CBS News",
+      "source": {
+        "name": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZkszbHBCSUFTSnlNdTZjOUJsdjVlS3JYaXE3am1hR2VmMXJ3XzQ4SWxPam16djFzRUwtZ01qbGRKU3pjZjI3SlBTaWVlRnJhTHVZWEoxbkV2TFpfMHJYbFBQSGVUUVV0MUlQdkIzUEJnVEZIMFZ6VlE5RzliTFhmZkF30gGHAUFVX3lxTE1fdWNMaE4xYUVua3NERzFGVmNpSkFCUllZemJuVFhLRjM1dy1YQmFrcjNKX3c5dGVDZnJGZloxQmNybE1Kb1ExVm9VR19IUzk1LWFucFROVm9WYlFic2hBNGszZGhRRDJmbW01OXNXemhlaWpzYTVmTTE1dXlubEc5WmNkNnExZw?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiggFBVV95cUxOZkszbHBCSUFTSnlNdTZjOUJsdjVlS3JYaXE3am1hR2VmMXJ3XzQ4SWxPam16djFzRUwtZ01qbGRKU3pjZjI3SlBTaWVlRnJhTHVZWEoxbkV2TFpfMHJYbFBQSGVUUVV0MUlQdkIzUEJnVEZIMFZ6VlE5RzliTFhmZkF30gGHAUFVX3lxTE1fdWNMaE4xYUVua3NERzFGVmNpSkFCUllZemJuVFhLRjM1dy1YQmFrcjNKX3c5dGVDZnJGZloxQmNybE1Kb1ExVm9VR19IUzk1LWFucFROVm9WYlFic2hBNGszZGhRRDJmbW01OXNXemhlaWpzYTVmTTE1dXlubEc5WmNkNnExZw%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Anthropic",
+          "type": "amber"
+        },
+        {
+          "label": "New",
+          "type": "red"
+        }
+      ],
+      "headline": "Anthropic fight with the Pentagon amid Iran war puts ethics of AI warfare in focus - OSV News",
+      "body": "Anthropic fight with the Pentagon amid Iran war puts ethics of AI warfare in focus  OSV News",
+      "source": {
+        "name": "OSV News",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0Z1TGpvN1FhVGdjdlAzM2xLZW1oLXFXVGg1UllRVkZpc0p1d2gzUFY0OTlyOHg0V1pQUUFRU0RCQzh0Z3hsT3JJOTQzZE1HVmVReW9jUC15Zm51UUw1UHFZeDdqR1BnWi05VkkzTkw5TU5NVWxTa0xpN3hzNzVpdUYxOVdKY0dqeWpCZzhoR3R6N3pGQTFMbGNELWVtT1lRSGMtRlhVa0cza1U?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiqwFBVV95cUxOX0Z1TGpvN1FhVGdjdlAzM2xLZW1oLXFXVGg1UllRVkZpc0p1d2gzUFY0OTlyOHg0V1pQUUFRU0RCQzh0Z3hsT3JJOTQzZE1HVmVReW9jUC15Zm51UUw1UHFZeDdqR1BnWi05VkkzTkw5TU5NVWxTa0xpN3hzNzVpdUYxOVdKY0dqeWpCZzhoR3R6N3pGQTFMbGNELWVtT1lRSGMtRlhVa0cza1U%3Foc%3D5"
     },
     {
       "tags": [
@@ -176,81 +237,13 @@
           "type": "red"
         }
       ],
-      "headline": "How the military is using AI in war - CBS News",
-      "body": "How the military is using AI in war  CBS News",
-      "source": {
-        "name": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZkszbHBCSUFTSnlNdTZjOUJsdjVlS3JYaXE3am1hR2VmMXJ3XzQ4SWxPam16djFzRUwtZ01qbGRKU3pjZjI3SlBTaWVlRnJhTHVZWEoxbkV2TFpfMHJYbFBQSGVUUVV0MUlQdkIzUEJnVEZIMFZ6VlE5RzliTFhmZkF30gGHAUFVX3lxTE1fdWNMaE4xYUVua3NERzFGVmNpSkFCUllZemJuVFhLRjM1dy1YQmFrcjNKX3c5dGVDZnJGZloxQmNybE1Kb1ExVm9VR19IUzk1LWFucFROVm9WYlFic2hBNGszZGhRRDJmbW01OXNXemhlaWpzYTVmTTE1dXlubEc5WmNkNnExZw?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiggFBVV95cUxOZkszbHBCSUFTSnlNdTZjOUJsdjVlS3JYaXE3am1hR2VmMXJ3XzQ4SWxPam16djFzRUwtZ01qbGRKU3pjZjI3SlBTaWVlRnJhTHVZWEoxbkV2TFpfMHJYbFBQSGVUUVV0MUlQdkIzUEJnVEZIMFZ6VlE5RzliTFhmZkF30gGHAUFVX3lxTE1fdWNMaE4xYUVua3NERzFGVmNpSkFCUllZemJuVFhLRjM1dy1YQmFrcjNKX3c5dGVDZnJGZloxQmNybE1Kb1ExVm9VR19IUzk1LWFucFROVm9WYlFic2hBNGszZGhRRDJmbW01OXNXemhlaWpzYTVmTTE1dXlubEc5WmNkNnExZw%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Anthropic",
-          "type": "amber"
-        }
-      ],
-      "headline": "The Founder of Anthropic Says He Wants to Protect Humanity From AI. Just Don't Ask How. - Vanity Fair",
-      "body": "The Founder of Anthropic Says He Wants to Protect Humanity From AI. Just Don't Ask How.  Vanity Fair",
-      "source": {
-        "name": "Vanity Fair",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91U1pCZXpJQzV5cnU1YWRIODRNOGk1QkVpeEFWOE5MZ3RwbFhaRjJGUlN5dzBfcmNKdWRqd0xHMURpM1ZOcHBjT1NlN2lGR2xZeWw4RXBJOUhQVFhhbDdWajBXblJCaXMtbTVaVGliSmc?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMicEFVX3lxTE91U1pCZXpJQzV5cnU1YWRIODRNOGk1QkVpeEFWOE5MZ3RwbFhaRjJGUlN5dzBfcmNKdWRqd0xHMURpM1ZOcHBjT1NlN2lGR2xZeWw4RXBJOUhQVFhhbDdWajBXblJCaXMtbTVaVGliSmc%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Anthropic",
-          "type": "amber"
-        },
-        {
-          "label": "New",
-          "type": "red"
-        }
-      ],
-      "headline": "Anthropic fight with the Pentagon amid Iran war puts ethics of AI warfare in focus - OSV News",
-      "body": "Anthropic fight with the Pentagon amid Iran war puts ethics of AI warfare in focus  OSV News",
-      "source": {
-        "name": "OSV News",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0Z1TGpvN1FhVGdjdlAzM2xLZW1oLXFXVGg1UllRVkZpc0p1d2gzUFY0OTlyOHg0V1pQUUFRU0RCQzh0Z3hsT3JJOTQzZE1HVmVReW9jUC15Zm51UUw1UHFZeDdqR1BnWi05VkkzTkw5TU5NVWxTa0xpN3hzNzVpdUYxOVdKY0dqeWpCZzhoR3R6N3pGQTFMbGNELWVtT1lRSGMtRlhVa0cza1U?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiqwFBVV95cUxOX0Z1TGpvN1FhVGdjdlAzM2xLZW1oLXFXVGg1UllRVkZpc0p1d2gzUFY0OTlyOHg0V1pQUUFRU0RCQzh0Z3hsT3JJOTQzZE1HVmVReW9jUC15Zm51UUw1UHFZeDdqR1BnWi05VkkzTkw5TU5NVWxTa0xpN3hzNzVpdUYxOVdKY0dqeWpCZzhoR3R6N3pGQTFMbGNELWVtT1lRSGMtRlhVa0cza1U%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Anthropic",
-          "type": "amber"
-        },
-        {
-          "label": "New",
-          "type": "red"
-        }
-      ],
-      "headline": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic - The New York Times",
-      "body": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic  The New York Times",
+      "headline": "A.I. Agents: They’re Fun. They’re Useful. But Don’t Give Them the Credit Card. - The New York Times",
+      "body": "A.I. Agents: They’re Fun. They’re Useful. But Don’t Give Them the Credit Card.  The New York Times",
       "source": {
         "name": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0d1bm1pa1gwS3ZkbWc0N2lzbnViUFRzR2FkbVVON0dLNXdSX1hhZ19acUJhMExjODB6ejhYb2x5Y1lReXI3Q2Nra3p1OThWXzZ5UzlLcm5fUmV6R0VYckFkSkx2dTlkaFdwNUJrdWFwWHF2dm5WMDNjbXc2Q2VOTU4yNUNXa1VKNDdsOQ?oc=5"
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kdjVHOWkzRFk5czk2bWE3LWFOQlJOWDBQbFB1YzAzeUc5UWl5MlN3dXBHWTZ1VzVFYUNJaGN6YXhmT1ZrZDhHTWdBaUVjeDRYVnRjQTItbVVieE5PaWg0ZHNpR2hMaWtxVzNkMkk5TVRsV0U?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMijAFBVV95cUxQZ0d1bm1pa1gwS3ZkbWc0N2lzbnViUFRzR2FkbVVON0dLNXdSX1hhZ19acUJhMExjODB6ejhYb2x5Y1lReXI3Q2Nra3p1OThWXzZ5UzlLcm5fUmV6R0VYckFkSkx2dTlkaFdwNUJrdWFwWHF2dm5WMDNjbXc2Q2VOTU4yNUNXa1VKNDdsOQ%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Anthropic",
-          "type": "amber"
-        }
-      ],
-      "headline": "BMG sues Anthropic for infringement, alleging AI firm’s $380B valuation was built on ‘stolen copyrighted works’ - Music Business Worldwide",
-      "body": "BMG sues Anthropic for infringement, alleging AI firm’s $380B valuation was built on ‘stolen copyrighted works’  Music Business Worldwide",
-      "source": {
-        "name": "Music Business Worldwide",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObVowRnMwOEg3M3BBRzdSa09ZY1VMT0wzZTNDakQwMnRYZjZhaGFBX3c4Ny1HN2FILUJ5dllaUk92TnQ0TlUwb3I4RWs2dFhYUURPMjNCRzREQmQ2cHd0V0ljMVF4R1BHODRqVW4tZjRmb1l1VHF3RjRNMWJFTWhJS3QxeENFaTMwcUc1czY1WWZWMTh0TmNZU3hyajRJcS02clZHcDVoOTM2Yk1WMzM3MjNBejNUYkZ3Sjg2Zmx4Rl9BMUZUeGhTVXZ3?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiygFBVV95cUxObVowRnMwOEg3M3BBRzdSa09ZY1VMT0wzZTNDakQwMnRYZjZhaGFBX3c4Ny1HN2FILUJ5dllaUk92TnQ0TlUwb3I4RWs2dFhYUURPMjNCRzREQmQ2cHd0V0ljMVF4R1BHODRqVW4tZjRmb1l1VHF3RjRNMWJFTWhJS3QxeENFaTMwcUc1czY1WWZWMTh0TmNZU3hyajRJcS02clZHcDVoOTM2Yk1WMzM3MjNBejNUYkZ3Sjg2Zmx4Rl9BMUZUeGhTVXZ3%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMic0FVX3lxTE1kdjVHOWkzRFk5czk2bWE3LWFOQlJOWDBQbFB1YzAzeUc5UWl5MlN3dXBHWTZ1VzVFYUNJaGN6YXhmT1ZrZDhHTWdBaUVjeDRYVnRjQTItbVVieE5PaWg0ZHNpR2hMaWtxVzNkMkk5TVRsV0U%3Foc%3D5"
     },
     {
       "tags": [
@@ -266,6 +259,21 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOUlxb1Zoam9HY2ZDRjNFYUxiOVFiYUE0VXNhcHR1X21DcWdnaXhRRXlWMHNnSWVaZm5GWG9SY3QtdW1rdXZ4bHhQa3lCUEk4SVhDcjZLeVNDbjFUaFVORjkwOEdrc3V4d1EwQWJjUmhKT0xvS2VyZFd0cEtnX0Jqc3R6TWxJazVJNHhZc2N4VHhsZ2U1c2JRZ3RmTVdtcGlJNDg4MDdNQVdxRVlHeXlIbQ?oc=5"
       },
       "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMisAFBVV95cUxPOUlxb1Zoam9HY2ZDRjNFYUxiOVFiYUE0VXNhcHR1X21DcWdnaXhRRXlWMHNnSWVaZm5GWG9SY3QtdW1rdXZ4bHhQa3lCUEk4SVhDcjZLeVNDbjFUaFVORjkwOEdrc3V4d1EwQWJjUmhKT0xvS2VyZFd0cEtnX0Jqc3R6TWxJazVJNHhZc2N4VHhsZ2U1c2JRZ3RmTVdtcGlJNDg4MDdNQVdxRVlHeXlIbQ%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Anthropic",
+          "type": "amber"
+        }
+      ],
+      "headline": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems - WIRED",
+      "body": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems  WIRED",
+      "source": {
+        "name": "WIRED",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDNBUWxFRDllUE9yU0VjM0kwcG9Ra3QySDFrU3I5UVU2NjZEZUozZnA0dWVxekhweE1LM1I2ejF2bGdpUVJ4Sjhia3RCU2xQNW1XYzE5U1lsZXVzcGRVQXdSTnJMRXk0RkQ3cmhkSWNBaU1OaENuTnlnaXRYTXRKaHcxMzJtdmM?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMihwFBVV95cUxOZDNBUWxFRDllUE9yU0VjM0kwcG9Ra3QySDFrU3I5UVU2NjZEZUozZnA0dWVxekhweE1LM1I2ejF2bGdpUVJ4Sjhia3RCU2xQNW1XYzE5U1lsZXVzcGRVQXdSTnJMRXk0RkQ3cmhkSWNBaU1OaENuTnlnaXRYTXRKaHcxMzJtdmM%3Foc%3D5"
     }
   ],
   "upcoming": [],
@@ -281,7 +289,7 @@
       "color": "c-amber"
     },
     {
-      "value": "13:48",
+      "value": "20:30",
       "label": "最終更新時刻",
       "color": "c-violet"
     },
