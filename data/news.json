@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-03-20T13:29:53.452704+09:00",
+  "lastUpdated": "2026-03-20T20:26:03.107635+09:00",
   "google": [
+    {
+      "tags": [
+        {
+          "label": "Google",
+          "type": "blue"
+        }
+      ],
+      "headline": "Google wants to fill Fitbit with AI — and your medical records - Mashable",
+      "body": "Google wants to fill Fitbit with AI — and your medical records  Mashable",
+      "source": {
+        "name": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fY3BMRXZqOVp2aDMzZWFYeU56a01HNTdWNS1mQW9wVy14STZ3SEU4RjhxQk10aUtyVTdrWlh2MnZnekxxcm0tbmIxTTlwMVM5ZFBWMndTdW4?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiWEFVX3lxTE1fY3BMRXZqOVp2aDMzZWFYeU56a01HNTdWNS1mQW9wVy14STZ3SEU4RjhxQk10aUtyVTdrWlh2MnZnekxxcm0tbmIxTTlwMVM5ZFBWMndTdW4%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Gemini",
+          "type": "blue"
+        }
+      ],
+      "headline": "Google Begins Testing Gemini Mac App to Match ChatGPT and Claude - Bloomberg.com",
+      "body": "Google Begins Testing Gemini Mac App to Match ChatGPT and Claude  Bloomberg.com",
+      "source": {
+        "name": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlA2V2VpYXRMVS1SYkN6a2FGSGxFSzZ0MTcyVVh2LWhhOEFXRFNoY1ZTemVLSl9IbTNoYS0wYlJoY3NudUN5S2htNnNwc0RBalBWM29ic0c1NldjZk5MNGdJUXl2UlRlQUpEckJ3ekxURnFsMEdlaWFyNGE4aFJ2VXcweVFsUGh5aDJUaXE5a3RWaVNrVnVRTXN1SEx0X2sxRVBPb242LTNOUDBaUi05SGJ1emhrQQ?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMitgFBVV95cUxPQlA2V2VpYXRMVS1SYkN6a2FGSGxFSzZ0MTcyVVh2LWhhOEFXRFNoY1ZTemVLSl9IbTNoYS0wYlJoY3NudUN5S2htNnNwc0RBalBWM29ic0c1NldjZk5MNGdJUXl2UlRlQUpEckJ3ekxURnFsMEdlaWFyNGE4aFJ2VXcweVFsUGh5aDJUaXE5a3RWaVNrVnVRTXN1SEx0X2sxRVBPb242LTNOUDBaUi05SGJ1emhrQQ%3Foc%3D5"
+    },
     {
       "tags": [
         {
@@ -34,21 +64,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEdxS1B2dVFEY3hOMnNud21TT3BlcnlOOXlDcEZxRlBOV29UOHhILTRjaUF5czJlMzVqMGllNmlBak14eGZxR3RDZ2xIZHdiNXFpcTBZU2piSHBva01xUEJtVkZfdGo4cFlEaThCM2tWa2RyZWt4MWFhV2ZjOVRpYWhxOFNWQUF4OUd2cEVJdmxZQ3F4U2ljWGJ2U3VNbUdzdnNwZkVZZ05LZw?oc=5"
       },
       "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiqgFBVV95cUxOWEdxS1B2dVFEY3hOMnNud21TT3BlcnlOOXlDcEZxRlBOV29UOHhILTRjaUF5czJlMzVqMGllNmlBak14eGZxR3RDZ2xIZHdiNXFpcTBZU2piSHBva01xUEJtVkZfdGo4cFlEaThCM2tWa2RyZWt4MWFhV2ZjOVRpYWhxOFNWQUF4OUd2cEVJdmxZQ3F4U2ljWGJ2U3VNbUdzdnNwZkVZZ05LZw%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Gemini",
-          "type": "blue"
-        }
-      ],
-      "headline": "Google Begins Testing Gemini Mac App to Match ChatGPT and Claude - Bloomberg.com",
-      "body": "Google Begins Testing Gemini Mac App to Match ChatGPT and Claude  Bloomberg.com",
-      "source": {
-        "name": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlA2V2VpYXRMVS1SYkN6a2FGSGxFSzZ0MTcyVVh2LWhhOEFXRFNoY1ZTemVLSl9IbTNoYS0wYlJoY3NudUN5S2htNnNwc0RBalBWM29ic0c1NldjZk5MNGdJUXl2UlRlQUpEckJ3ekxURnFsMEdlaWFyNGE4aFJ2VXcweVFsUGh5aDJUaXE5a3RWaVNrVnVRTXN1SEx0X2sxRVBPb242LTNOUDBaUi05SGJ1emhrQQ?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMitgFBVV95cUxPQlA2V2VpYXRMVS1SYkN6a2FGSGxFSzZ0MTcyVVh2LWhhOEFXRFNoY1ZTemVLSl9IbTNoYS0wYlJoY3NudUN5S2htNnNwc0RBalBWM29ic0c1NldjZk5MNGdJUXl2UlRlQUpEckJ3ekxURnFsMEdlaWFyNGE4aFJ2VXcweVFsUGh5aDJUaXE5a3RWaVNrVnVRTXN1SEx0X2sxRVBPb242LTNOUDBaUi05SGJ1emhrQQ%3Foc%3D5"
     },
     {
       "tags": [
@@ -87,75 +102,75 @@
           "type": "blue"
         }
       ],
-      "headline": "Federal lawsuit claims Google's Gemini AI chatbot pushed Jupiter man to plan mass murder, take his life - WFLX",
-      "body": "Federal lawsuit claims Google's Gemini AI chatbot pushed Jupiter man to plan mass murder, take his life  WFLX",
+      "headline": "Google is reportedly testing a Gemini app for Mac - Engadget",
+      "body": "Google is reportedly testing a Gemini app for Mac  Engadget",
       "source": {
-        "name": "WFLX",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOVBZbXBLRjNQeHRXdktCS3VIRXVGUG15U1FEWlJGZTdCRkQxZnJZSzNPSFVEVzdrcElXYVUyNlpYQVBISWY3NUpFUjlQbHZqTFRVWDZ1T2tobC1UdVNEaTdQNkxpSy1tb3ByVHBKcHZDN1NzaDZmQ2UxY3VfZThSN2ZoaVVNVVNJOXZyRE9JM0xhUnczTDNhNVd5Ym1wc3QyYmF6UGVyTWw2WmpmUlNMbnByTzhmSU54enJ5RHk3R2lpN1REbW9aNUpZQQ?oc=5"
+        "name": "Engadget",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUtmckd6amM4LVNBcnZfOUdrSllnUmJPMFZNYWtfYTQ1TlNUbkVXYUxUZnNXQ2phQmw3cEhPTHg2RzJSaTJIWENPb0NnMXhXOEtFcTFlcnNlMEw1LURGbjlkQXVmZi1vb3hoUmdzQUg3TlRSZ2p4cFZFUFk5cDhDUUFTQmxuaWdaX0V6LU9NWjItb0VoRkln?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiywFBVV95cUxOOVBZbXBLRjNQeHRXdktCS3VIRXVGUG15U1FEWlJGZTdCRkQxZnJZSzNPSFVEVzdrcElXYVUyNlpYQVBISWY3NUpFUjlQbHZqTFRVWDZ1T2tobC1UdVNEaTdQNkxpSy1tb3ByVHBKcHZDN1NzaDZmQ2UxY3VfZThSN2ZoaVVNVVNJOXZyRE9JM0xhUnczTDNhNVd5Ym1wc3QyYmF6UGVyTWw2WmpmUlNMbnByTzhmSU54enJ5RHk3R2lpN1REbW9aNUpZQQ%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilwFBVV95cUxOOUtmckd6amM4LVNBcnZfOUdrSllnUmJPMFZNYWtfYTQ1TlNUbkVXYUxUZnNXQ2phQmw3cEhPTHg2RzJSaTJIWENPb0NnMXhXOEtFcTFlcnNlMEw1LURGbjlkQXVmZi1vb3hoUmdzQUg3TlRSZ2p4cFZFUFk5cDhDUUFTQmxuaWdaX0V6LU9NWjItb0VoRkln%3Foc%3D5"
     },
     {
       "tags": [
         {
-          "label": "Google",
+          "label": "Search",
           "type": "blue"
         }
       ],
-      "headline": "Google told staff worried about Pentagon AI deals that the company is 'leaning more' into national security contracts - Business Insider",
-      "body": "Google told staff worried about Pentagon AI deals that the company is 'leaning more' into national security contracts  Business Insider",
+      "headline": "Google Lags In Mobile AI, Captures Most Search Market Share 10/02/2024 - MediaPost",
+      "body": "Google Lags In Mobile AI, Captures Most Search Market Share 10/02/2024  MediaPost",
       "source": {
-        "name": "Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaEYyYXI2MVJudkZxaTRFN0FhSFNFTWhxQ2wycDFvbWZWOGpINE9rVEYyRFBPdE9kWHFXR1M3Z1MxQ1gxZVA5ZVE2QTJleF9XNWloakt6UlJxaWNkZ3NES0NxVGVkcHgyVXdvdkYtUHlyRVBQN2N3Q3E5VGZYeUtLdmplRS1GSEwzd0ZyVTNoM0RtWEp4ejZfRGJYMlZUcjNxaXhYYjE2N090V2NRaC15clpwZlZ5M0l0cVE?oc=5"
+        "name": "MediaPost",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2tmc3pZVU51dFNWczNRZ05NdnJkRlFjZGdfYm94RVVtWlRNMGpRQlk1S0Mta2xuVm9PLWpBZUpPd19CZWpTRkhJODlxN3RneHJOV3IzaXZwdVFsQmg0cGphakVaSDR1Yy03aXVuRTNmVWx5dUF4MV9jeG85SnZzMGdCcWZQWTZOdGd5RXZoR1RMdEpHMjFJdDB3dHVjZ0RHLVVOUVNCXy1icHVrX3A4amhVb2pRUW1fLXZPckFuQWZtei1YbkZ4bQ?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiugFBVV95cUxPaEYyYXI2MVJudkZxaTRFN0FhSFNFTWhxQ2wycDFvbWZWOGpINE9rVEYyRFBPdE9kWHFXR1M3Z1MxQ1gxZVA5ZVE2QTJleF9XNWloakt6UlJxaWNkZ3NES0NxVGVkcHgyVXdvdkYtUHlyRVBQN2N3Q3E5VGZYeUtLdmplRS1GSEwzd0ZyVTNoM0RtWEp4ejZfRGJYMlZUcjNxaXhYYjE2N090V2NRaC15clpwZlZ5M0l0cVE%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Google",
-          "type": "blue"
-        }
-      ],
-      "headline": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze - WIRED",
-      "body": "Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze  WIRED",
-      "source": {
-        "name": "WIRED",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlFjQ0xTNHN4ZU5VNWh3ZTFqM1VFWWlnWC0yb1ZZa0FFcWVITXJGa0NPTmdfQmoyVkw1Y3hLTHlMYlgxakhwR1hIN0lRLTFDQ1QwWWxnNVZqMldiZUNuQmVQa2dYYkZ0Mm5jQWRsbi1Oc3U3QzZRSGU4NU44aDUxLUhQOTQ1b1ZwVkpDNVRPOA?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMijwFBVV95cUxQRlFjQ0xTNHN4ZU5VNWh3ZTFqM1VFWWlnWC0yb1ZZa0FFcWVITXJGa0NPTmdfQmoyVkw1Y3hLTHlMYlgxakhwR1hIN0lRLTFDQ1QwWWxnNVZqMldiZUNuQmVQa2dYYkZ0Mm5jQWRsbi1Oc3U3QzZRSGU4NU44aDUxLUhQOTQ1b1ZwVkpDNVRPOA%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiyAFBVV95cUxQd2tmc3pZVU51dFNWczNRZ05NdnJkRlFjZGdfYm94RVVtWlRNMGpRQlk1S0Mta2xuVm9PLWpBZUpPd19CZWpTRkhJODlxN3RneHJOV3IzaXZwdVFsQmg0cGphakVaSDR1Yy03aXVuRTNmVWx5dUF4MV9jeG85SnZzMGdCcWZQWTZOdGd5RXZoR1RMdEpHMjFJdDB3dHVjZ0RHLVVOUVNCXy1icHVrX3A4amhVb2pRUW1fLXZPckFuQWZtei1YbkZ4bQ%3Foc%3D5"
     }
   ],
   "anthropic": [
     {
       "tags": [
         {
-          "label": "Claude",
+          "label": "Anthropic",
           "type": "amber"
         }
       ],
-      "headline": "Claude AI discovered 22 Firefox flaws. Here's how many it figured out how to exploit. - Mashable",
-      "body": "Claude AI discovered 22 Firefox flaws. Here's how many it figured out how to exploit.  Mashable",
+      "headline": "Who's most optimistic about AI — and who isn't, according to Anthropic - CNBC",
+      "body": "Who's most optimistic about AI — and who isn't, according to Anthropic  CNBC",
       "source": {
-        "name": "Mashable",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KaUdDZHJRTVVhTnlUUGJYWTQ3VkR2N0syaTVJSjVoTklHcHFMbGtiZmIta2M0UzdZb1lxeUpFLXlQQl90Nk9FQXM2cndJMklDbDRsN2ZqeWhYeHotdWhoZndFM3hnYWpXdFA2VGM5QQ?oc=5"
+        "name": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdGlMbXpMSWJvMVk3RWNxREJ2ZWpPb2FCSnlKX1VkM0xqUEFlMGJGS1ZmSl85RzlQNzM0MGx1Y3htelpMYl9tYlB6ZEpZS3I4a081aWp4bGk4WE1saUhSY3ZVdEIzaUVpR0hpV2VlampyUFpyOUlJWHloZ1g0NzVJMkVMaW55ellLUTEtSGJSWmU1X2PSAZgBQVVfeXFMTmpwenNXRjNDR01SLVMzd3B1VGYxY1lXa29MR2t3aXBzVWQ0cklWUmxUQjIwaE5LVkwtdmhyanlWb19zUWdic0t0a0RxSjVtLXgyel9LTno5eWFxbzJBalFrN2MtekczNTZnUldRTVZabUdmV19nUmI3N1VnMF91MEp6NEtxWUVoQWJ0ZVhUUDNDcmE3YUMyUWE?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMib0FVX3lxTE1KaUdDZHJRTVVhTnlUUGJYWTQ3VkR2N0syaTVJSjVoTklHcHFMbGtiZmIta2M0UzdZb1lxeUpFLXlQQl90Nk9FQXM2cndJMklDbDRsN2ZqeWhYeHotdWhoZndFM3hnYWpXdFA2VGM5QQ%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMikwFBVV95cUxNdGlMbXpMSWJvMVk3RWNxREJ2ZWpPb2FCSnlKX1VkM0xqUEFlMGJGS1ZmSl85RzlQNzM0MGx1Y3htelpMYl9tYlB6ZEpZS3I4a081aWp4bGk4WE1saUhSY3ZVdEIzaUVpR0hpV2VlampyUFpyOUlJWHloZ1g0NzVJMkVMaW55ellLUTEtSGJSWmU1X2PSAZgBQVVfeXFMTmpwenNXRjNDR01SLVMzd3B1VGYxY1lXa29MR2t3aXBzVWQ0cklWUmxUQjIwaE5LVkwtdmhyanlWb19zUWdic0t0a0RxSjVtLXgyel9LTno5eWFxbzJBalFrN2MtekczNTZnUldRTVZabUdmV19nUmI3N1VnMF91MEp6NEtxWUVoQWJ0ZVhUUDNDcmE3YUMyUWE%3Foc%3D5"
     },
     {
       "tags": [
         {
-          "label": "Claude",
+          "label": "Anthropic",
           "type": "amber"
         }
       ],
-      "headline": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy - Reuters",
-      "body": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy  Reuters",
+      "headline": "Scoop: Anthropic meets with House Homeland Security behind closed doors - Axios",
+      "body": "Scoop: Anthropic meets with House Homeland Security behind closed doors  Axios",
       "source": {
-        "name": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFJrV0xVbWxrMEFfNDlOYUFlUG1HU29peWJjZkotck9jQkw5VHJPRmxpY2NlUV9YUnVFMEszMHYyVllsdEFwVkk5aF9pdkpHMi0yY1ZhbHBWNmZ3R3RIM0xRTG9rMzdqQVpCa1ZPbEpXS1BxZmlhc2RGbkxELTJkRUV1OUlVWDNKdzdfc0RGQlFmLXM2UHNsYUNMYU1IejVCSEhZSk1HajBNc2J0YkVZWHExMk9RcV8taFFONC1oUVZoYXM?oc=5"
+        "name": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qZTRoLU9vU202UFdSaGtYX19WVEhHLXJuU0d0cVFuUVl5NHVhT3AyWG00QUduRHBJRUtxbzRrWGd2eEUtaW5lbkVKSmpCNlhKZjQzWENJOWNiRkpVZHlhbDVpOFVQcnExd09TcC00M3pqV2hJUXVyLQ?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiwwFBVV95cUxOSFJrV0xVbWxrMEFfNDlOYUFlUG1HU29peWJjZkotck9jQkw5VHJPRmxpY2NlUV9YUnVFMEszMHYyVllsdEFwVkk5aF9pdkpHMi0yY1ZhbHBWNmZ3R3RIM0xRTG9rMzdqQVpCa1ZPbEpXS1BxZmlhc2RGbkxELTJkRUV1OUlVWDNKdzdfc0RGQlFmLXM2UHNsYUNMYU1IejVCSEhZSk1HajBNc2J0YkVZWHExMk9RcV8taFFONC1oUVZoYXM%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMieEFVX3lxTE5qZTRoLU9vU202UFdSaGtYX19WVEhHLXJuU0d0cVFuUVl5NHVhT3AyWG00QUduRHBJRUtxbzRrWGd2eEUtaW5lbkVKSmpCNlhKZjQzWENJOWNiRkpVZHlhbDVpOFVQcnExd09TcC00M3pqV2hJUXVyLQ%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Anthropic",
+          "type": "amber"
+        }
+      ],
+      "headline": "Pentagon’s Anthropic bashing rekindles Silicon Valley’s resistance to war - Los Angeles Times",
+      "body": "Pentagon’s Anthropic bashing rekindles Silicon Valley’s resistance to war  Los Angeles Times",
+      "source": {
+        "name": "Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUF9EeTNkWTB1WTBuUlNaZkZqcUlkbEFGRG43SllhX0hvWGdxX2VxNUI3Yk1nWXRQWVI5RDVPaG1uNnV1bzVhYWxaNGE1SUhEN0s2aGdCN1BXNXpyQ0JzYm9fVzFIdDZiaEhhMjlfVVNyOWxMWlpqdUNIa2NoTzZCVTV1NlNlcVhaZHlpNTJsNmNfaHd2RnVlZ3YyU2ZybVRZZU9WTjF3N2FIcENDWFNuN0dtaGRPNng5NEpRbGcwdzVXTlVDU0Y4TXNmcUhZUS1JOVNyLQ?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi1AFBVV95cUxOUF9EeTNkWTB1WTBuUlNaZkZqcUlkbEFGRG43SllhX0hvWGdxX2VxNUI3Yk1nWXRQWVI5RDVPaG1uNnV1bzVhYWxaNGE1SUhEN0s2aGdCN1BXNXpyQ0JzYm9fVzFIdDZiaEhhMjlfVVNyOWxMWlpqdUNIa2NoTzZCVTV1NlNlcVhaZHlpNTJsNmNfaHd2RnVlZ3YyU2ZybVRZZU9WTjF3N2FIcENDWFNuN0dtaGRPNng5NEpRbGcwdzVXTlVDU0Y4TXNmcUhZUS1JOVNyLQ%3Foc%3D5"
     },
     {
       "tags": [
@@ -175,6 +190,21 @@
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWmJSWmkyWUVNTVFvTERJT0NUTXdDcWt3eE5mSjZhQXE0bmQ1R205WjBLMldxUWk5RjdQS2xZeURtUmtzc19Ld3JkS3A1bVhfT05teXRTOWR3X2F4dzRETFNLUGxwTVI4MS1lajBIaXdYbC10UVBaa3Y1VlpwR3ZGNTExYlY1S1pFOGJXWVdGYW9vLU1XWEtHY3ZPSHdFUUdCZnNuS0lXV3g2MEtxcjhfTDN5TnZ4NFhrTVk2SUJBV29hd3lJVnhka0xXWnFpbnV3Z0lkQWNKMjZxbktsN1BsVjFJd1Z0cnNKZXZN?oc=5"
       },
       "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi6wFBVV95cUxPWmJSWmkyWUVNTVFvTERJT0NUTXdDcWt3eE5mSjZhQXE0bmQ1R205WjBLMldxUWk5RjdQS2xZeURtUmtzc19Ld3JkS3A1bVhfT05teXRTOWR3X2F4dzRETFNLUGxwTVI4MS1lajBIaXdYbC10UVBaa3Y1VlpwR3ZGNTExYlY1S1pFOGJXWVdGYW9vLU1XWEtHY3ZPSHdFUUdCZnNuS0lXV3g2MEtxcjhfTDN5TnZ4NFhrTVk2SUJBV29hd3lJVnhka0xXWnFpbnV3Z0lkQWNKMjZxbktsN1BsVjFJd1Z0cnNKZXZN%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Claude",
+          "type": "amber"
+        }
+      ],
+      "headline": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy - Reuters",
+      "body": "Hegseth wants Pentagon to dump Anthropic's Claude, but military users say it's not so easy  Reuters",
+      "source": {
+        "name": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFJrV0xVbWxrMEFfNDlOYUFlUG1HU29peWJjZkotck9jQkw5VHJPRmxpY2NlUV9YUnVFMEszMHYyVllsdEFwVkk5aF9pdkpHMi0yY1ZhbHBWNmZ3R3RIM0xRTG9rMzdqQVpCa1ZPbEpXS1BxZmlhc2RGbkxELTJkRUV1OUlVWDNKdzdfc0RGQlFmLXM2UHNsYUNMYU1IejVCSEhZSk1HajBNc2J0YkVZWHExMk9RcV8taFFONC1oUVZoYXM?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiwwFBVV95cUxOSFJrV0xVbWxrMEFfNDlOYUFlUG1HU29peWJjZkotck9jQkw5VHJPRmxpY2NlUV9YUnVFMEszMHYyVllsdEFwVkk5aF9pdkpHMi0yY1ZhbHBWNmZ3R3RIM0xRTG9rMzdqQVpCa1ZPbEpXS1BxZmlhc2RGbkxELTJkRUV1OUlVWDNKdzdfc0RGQlFmLXM2UHNsYUNMYU1IejVCSEhZSk1HajBNc2J0YkVZWHExMk9RcV8taFFONC1oUVZoYXM%3Foc%3D5"
     },
     {
       "tags": [
@@ -202,13 +232,13 @@
           "type": "amber"
         }
       ],
-      "headline": "A top Anthropic engineer warns AI agents will transform every computer-based job in America — and it will be 'painful' - AOL.com",
-      "body": "A top Anthropic engineer warns AI agents will transform every computer-based job in America — and it will be 'painful'  AOL.com",
+      "headline": "IBM plunges on Anthropic AI threat - MSN",
+      "body": "IBM plunges on Anthropic AI threat  MSN",
       "source": {
-        "name": "AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPanZ1aGEwa1N4dmswVVQtY2U3NG43OFAtNXk4dWdxQ1pXSG9GOFF4ajdqZ3plNVpaZ2JGaVl6eW1hQVZFQlUxSW1nYmVXMEtpcjNlNjlkM3ZKYTdHWnVxUUJ3V2gza3pCODd6SDl4S1dqc1RKeFZDZm9NNTUzV2U0Wk9VV3FtSjJXTGJEdFF1TXN4UmVnR0RQTlIxeUYyV2JTdEp1Mi1kR0stbldZM0JVaVB6RldkZmhQaUFvUmZ4SEpxbk9CX2JUNDFHWFFNcVIxU19ySkJOczhiN1BEb0xJN19adkNLczNWaUREWlQ3LXlKT2pQdmR3ZnBUM3lDRkxHYUozaFJoeXhmaGVCUk1TMg?oc=5"
+        "name": "MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN2lsQUVJclptOFJ3VlVjZHppS2c4a3hIaEU4SllpYjJWLWJvMHRlMFRGdHZ4SW1lOFZlYXVPZFN2UXhpMVo3TERNalR2WkhQYTNJOTdHMFZDM0pobGFwMFhiUzlBSXNzSkliLW96a05qNUlzSXZEbzBjTTlOLWpVQzVabzRyR3pXcU16ZDRIRV94Y3VGUGZtX3l1T01Jak9pMWczZGVjZVhjZkJnckZmNVlsdHQ3bkhkU0k3bUtxV29vaGVZZHI4WnN3dGRIdkxFQ1E?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMikAJBVV95cUxPanZ1aGEwa1N4dmswVVQtY2U3NG43OFAtNXk4dWdxQ1pXSG9GOFF4ajdqZ3plNVpaZ2JGaVl6eW1hQVZFQlUxSW1nYmVXMEtpcjNlNjlkM3ZKYTdHWnVxUUJ3V2gza3pCODd6SDl4S1dqc1RKeFZDZm9NNTUzV2U0Wk9VV3FtSjJXTGJEdFF1TXN4UmVnR0RQTlIxeUYyV2JTdEp1Mi1kR0stbldZM0JVaVB6RldkZmhQaUFvUmZ4SEpxbk9CX2JUNDFHWFFNcVIxU19ySkJOczhiN1BEb0xJN19adkNLczNWaUREWlQ3LXlKT2pQdmR3ZnBUM3lDRkxHYUozaFJoeXhmaGVCUk1TMg%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi0gFBVV95cUxPN2lsQUVJclptOFJ3VlVjZHppS2c4a3hIaEU4SllpYjJWLWJvMHRlMFRGdHZ4SW1lOFZlYXVPZFN2UXhpMVo3TERNalR2WkhQYTNJOTdHMFZDM0pobGFwMFhiUzlBSXNzSkliLW96a05qNUlzSXZEbzBjTTlOLWpVQzVabzRyR3pXcU16ZDRIRV94Y3VGUGZtX3l1T01Jak9pMWczZGVjZVhjZkJnckZmNVlsdHQ3bkhkU0k3bUtxV29vaGVZZHI4WnN3dGRIdkxFQ1E%3Foc%3D5"
     },
     {
       "tags": [
@@ -224,36 +254,6 @@
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbk9qU2RzYVc0Vy01eEFmcV92dmppRkJ5WWxVdGc0bWJqd1FHNXNhWEtlc0R3WVJkYjVRVVZZQktmb3ExdHppVFFvSmJ0QXRQcGRYOVNBdG9fOUQ5eElSeU05SFpZb2Q2UlFkdEtNbmo1NkV4VkJZOFdBZUY2ZmkxUUdXNXRtcU1fTVB2UnZGRTV2cG0wSUxZWW1ULU9QSDg4V0E0M09YMTJ1cG14X0pPSw?oc=5"
       },
       "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMisAFBVV95cUxPbk9qU2RzYVc0Vy01eEFmcV92dmppRkJ5WWxVdGc0bWJqd1FHNXNhWEtlc0R3WVJkYjVRVVZZQktmb3ExdHppVFFvSmJ0QXRQcGRYOVNBdG9fOUQ5eElSeU05SFpZb2Q2UlFkdEtNbmo1NkV4VkJZOFdBZUY2ZmkxUUdXNXRtcU1fTVB2UnZGRTV2cG0wSUxZWW1ULU9QSDg4V0E0M09YMTJ1cG14X0pPSw%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Anthropic",
-          "type": "amber"
-        }
-      ],
-      "headline": "Pentagon flags Anthropic’s foreign workforce as security risk in court filing - Anadolu Ajansı",
-      "body": "Pentagon flags Anthropic’s foreign workforce as security risk in court filing  Anadolu Ajansı",
-      "source": {
-        "name": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXBXVVA1TDgzTHpockxXbDNSZzQ4UnphLW94VEYtdmtMSEtXWEh6SDF2NFlGSGZOU2Z0d3hYMmZCTjc2Z0FZdXNWaFktMkVjU1EwNU9Mcjd4a2ZjdDVLN3YwN0tLaTB3QUQ1anEzRjJ0NjZnQ1hVbWdQZ2pOeEdxR1RWTTM5YkxKTTBnVGlOS3ZLVVRLMHVFdmpocDdXMThSRlB3WUthUXJHMGJhM1Bid3haamgzaF9iZGVn?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiuwFBVV95cUxOYXBXVVA1TDgzTHpockxXbDNSZzQ4UnphLW94VEYtdmtMSEtXWEh6SDF2NFlGSGZOU2Z0d3hYMmZCTjc2Z0FZdXNWaFktMkVjU1EwNU9Mcjd4a2ZjdDVLN3YwN0tLaTB3QUQ1anEzRjJ0NjZnQ1hVbWdQZ2pOeEdxR1RWTTM5YkxKTTBnVGlOS3ZLVVRLMHVFdmpocDdXMThSRlB3WUthUXJHMGJhM1Bid3haamgzaF9iZGVn%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Anthropic",
-          "type": "amber"
-        }
-      ],
-      "headline": "Scoop: Anthropic meets with House Homeland Security behind closed doors - Axios",
-      "body": "Scoop: Anthropic meets with House Homeland Security behind closed doors  Axios",
-      "source": {
-        "name": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qZTRoLU9vU202UFdSaGtYX19WVEhHLXJuU0d0cVFuUVl5NHVhT3AyWG00QUduRHBJRUtxbzRrWGd2eEUtaW5lbkVKSmpCNlhKZjQzWENJOWNiRkpVZHlhbDVpOFVQcnExd09TcC00M3pqV2hJUXVyLQ?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMieEFVX3lxTE5qZTRoLU9vU202UFdSaGtYX19WVEhHLXJuU0d0cVFuUVl5NHVhT3AyWG00QUduRHBJRUtxbzRrWGd2eEUtaW5lbkVKSmpCNlhKZjQzWENJOWNiRkpVZHlhbDVpOFVQcnExd09TcC00M3pqV2hJUXVyLQ%3Foc%3D5"
     }
   ],
   "upcoming": [],
@@ -269,7 +269,7 @@
       "color": "c-amber"
     },
     {
-      "value": "13:29",
+      "value": "20:26",
       "label": "最終更新時刻",
       "color": "c-violet"
     },
