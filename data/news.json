@@ -1,6 +1,21 @@
 {
-  "lastUpdated": "2026-03-20T20:26:03.107635+09:00",
+  "lastUpdated": "2026-03-21T13:22:11.493369+09:00",
   "google": [
+    {
+      "tags": [
+        {
+          "label": "Google",
+          "type": "blue"
+        }
+      ],
+      "headline": "UCR community urged to use Google AI tools - Inside UCR",
+      "body": "UCR community urged to use Google AI tools  Inside UCR",
+      "source": {
+        "name": "Inside UCR",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUVViRW8wVkdSQkZmMGxIWjdybVYxeEdzR1ZMNk9JcHhFdmtwVHhhQzdSb0pMd0l1VGN1SWlXSFVlNHRoRGJRallJUVc1THIwTkxLODNyUTFOYXNXUlBBblJObktIdDhpVzBJYTdaX1dLOHdpdEpzQ2hpZGdjbjNVZmUtUGFmLXMtZ3ZvSw?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMijAFBVV95cUxNUVViRW8wVkdSQkZmMGxIWjdybVYxeEdzR1ZMNk9JcHhFdmtwVHhhQzdSb0pMd0l1VGN1SWlXSFVlNHRoRGJRallJUVc1THIwTkxLODNyUTFOYXNXUlBBblJObktIdDhpVzBJYTdaX1dLOHdpdEpzQ2hpZGdjbjNVZmUtUGFmLXMtZ3ZvSw%3Foc%3D5"
+    },
     {
       "tags": [
         {
@@ -19,32 +34,81 @@
     {
       "tags": [
         {
-          "label": "Gemini",
+          "label": "Search",
           "type": "blue"
         }
       ],
-      "headline": "Google Begins Testing Gemini Mac App to Match ChatGPT and Claude - Bloomberg.com",
-      "body": "Google Begins Testing Gemini Mac App to Match ChatGPT and Claude  Bloomberg.com",
+      "headline": "Google Search is now using AI to replace headlines - The Verge",
+      "body": "Google Search is now using AI to replace headlines  The Verge",
       "source": {
-        "name": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQlA2V2VpYXRMVS1SYkN6a2FGSGxFSzZ0MTcyVVh2LWhhOEFXRFNoY1ZTemVLSl9IbTNoYS0wYlJoY3NudUN5S2htNnNwc0RBalBWM29ic0c1NldjZk5MNGdJUXl2UlRlQUpEckJ3ekxURnFsMEdlaWFyNGE4aFJ2VXcweVFsUGh5aDJUaXE5a3RWaVNrVnVRTXN1SEx0X2sxRVBPb242LTNOUDBaUi05SGJ1emhrQQ?oc=5"
+        "name": "The Verge",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbUVMYWJqRG9NaVFJNHh4NHFSQVdGREpZVDFZV0lOcGNUV3owNGlCYy1vRWNVRjhFcjg3MFZ1R01jYU55RFREWmt5X2tPYUJsdUxkZGlnUWctY2pMNGRnREFhU2htQnVhY1RNOHl4RGxVQ3czZ1ljN0F5ZHZDRHZRTERraE9Oalo2X1NPaXpaTTh4MHE5ck5SNmlPeGZjQWJiVC0xSlhQVQ?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMitgFBVV95cUxPQlA2V2VpYXRMVS1SYkN6a2FGSGxFSzZ0MTcyVVh2LWhhOEFXRFNoY1ZTemVLSl9IbTNoYS0wYlJoY3NudUN5S2htNnNwc0RBalBWM29ic0c1NldjZk5MNGdJUXl2UlRlQUpEckJ3ekxURnFsMEdlaWFyNGE4aFJ2VXcweVFsUGh5aDJUaXE5a3RWaVNrVnVRTXN1SEx0X2sxRVBPb242LTNOUDBaUi05SGJ1emhrQQ%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMipwFBVV95cUxQbUVMYWJqRG9NaVFJNHh4NHFSQVdGREpZVDFZV0lOcGNUV3owNGlCYy1vRWNVRjhFcjg3MFZ1R01jYU55RFREWmt5X2tPYUJsdUxkZGlnUWctY2pMNGRnREFhU2htQnVhY1RNOHl4RGxVQ3czZ1ljN0F5ZHZDRHZRTERraE9Oalo2X1NPaXpaTTh4MHE5ck5SNmlPeGZjQWJiVC0xSlhQVQ%3Foc%3D5"
     },
     {
       "tags": [
         {
-          "label": "Gemini",
+          "label": "Google",
           "type": "blue"
         }
       ],
-      "headline": "Bloomberg: Google begins testing dedicated Gemini app for Mac - 9to5Mac",
-      "body": "Bloomberg: Google begins testing dedicated Gemini app for Mac  9to5Mac",
+      "headline": "'My son’s AI wife said it loved him. Then it encouraged him to die' - The Times",
+      "body": "'My son’s AI wife said it loved him. Then it encouraged him to die'  The Times",
       "source": {
-        "name": "9to5Mac",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQlhwWmRjTjZvLXota3puNjlVMHNtVFkzRDFod0RtNE9RSHdsbVJvSmhFMGx5bndRZ3otc3FVQnlVb2VCYVI3WklLYWRjRXJPMlJvZ1JacXA0TlltNlFVSHZNOGhZOVFKNHNyeC1yQjVUdnQ1MFV4TTZpUG96dWJmVDg4WVpNWnJhc3hqNEx0NmN1ZkNyRGJJ?oc=5"
+        "name": "The Times",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNRUVlR3JMRmJJbzZkQ0ZVdFRaMTllUmltV0ptR3hTNEJjYmsxMWJoVkJSbnNiOHNTTmg5Q2RDbjdPODl5ZHhOczJSWnlpWWxCdk5INEs0ajQ3RU9RdjhIVnNZRnFYZTNBWGtfcFBDbjVmeUV2OGZ0dDJDZ3NhZ0k2UmtEZ3gwUk94VmpaVUJieFA1Y0lWZGVLVWVZME1vdDJBUlVxMXBFclkyOWhPVDlQTlZCNzFOeWl1VDZ5NVgzTHdLaGZQcnJoNDdLTHh0RFVjaERneEswdExXbm9BcUpiWENoZnNPVGZwOTlyOEZld2ZBVnZveDI3czVnN3NtbEVJZVhDVFZLTnV2bTh5UlNUNG5xZ3RiYXpVb2dLTTRRb0dqQWxrVGs0Rl93amFqN215SkJGZm82Zk5vVVNIZzF0d2tjMmVMRVBJRFpNenpWc0ZUbUxrRUx6WW9BWGxCSHpZSjlXRlYwdzE5VDlGaTcxWGNPMkhqUWl3RjFaTmxaYjVLOW03ZzFVUnlycy0za1NrMlZTTHpmelROZVVlREpNZ1VQR3M?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilwFBVV95cUxPQlhwWmRjTjZvLXota3puNjlVMHNtVFkzRDFod0RtNE9RSHdsbVJvSmhFMGx5bndRZ3otc3FVQnlVb2VCYVI3WklLYWRjRXJPMlJvZ1JacXA0TlltNlFVSHZNOGhZOVFKNHNyeC1yQjVUdnQ1MFV4TTZpUG96dWJmVDg4WVpNWnJhc3hqNEx0NmN1ZkNyRGJJ%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMipANBVV95cUxNRUVlR3JMRmJJbzZkQ0ZVdFRaMTllUmltV0ptR3hTNEJjYmsxMWJoVkJSbnNiOHNTTmg5Q2RDbjdPODl5ZHhOczJSWnlpWWxCdk5INEs0ajQ3RU9RdjhIVnNZRnFYZTNBWGtfcFBDbjVmeUV2OGZ0dDJDZ3NhZ0k2UmtEZ3gwUk94VmpaVUJieFA1Y0lWZGVLVWVZME1vdDJBUlVxMXBFclkyOWhPVDlQTlZCNzFOeWl1VDZ5NVgzTHdLaGZQcnJoNDdLTHh0RFVjaERneEswdExXbm9BcUpiWENoZnNPVGZwOTlyOEZld2ZBVnZveDI3czVnN3NtbEVJZVhDVFZLTnV2bTh5UlNUNG5xZ3RiYXpVb2dLTTRRb0dqQWxrVGs0Rl93amFqN215SkJGZm82Zk5vVVNIZzF0d2tjMmVMRVBJRFpNenpWc0ZUbUxrRUx6WW9BWGxCSHpZSjlXRlYwdzE5VDlGaTcxWGNPMkhqUWl3RjFaTmxaYjVLOW03ZzFVUnlycy0za1NrMlZTTHpmelROZVVlREpNZ1VQR3M%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Search",
+          "type": "blue"
+        }
+      ],
+      "headline": "Is Google using AI to rewrite headlines in search results? - GovTech",
+      "body": "Is Google using AI to rewrite headlines in search results?  GovTech",
+      "source": {
+        "name": "GovTech",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdGNzSmFNWkU4ZW5QQUJ2NnlaaWszaTVsS0ZXVFZKdnRSRXdMVmxnaWdHYllUN1hZb2hVNFl3cEVFV2xMaG1RS2s3OUZOLTRPeWdIWnY3WHRGVmsyY1VESmFBRVZOSDljRU9MS1lGQW82a0xpVm4weFVMeVpQbDd3ejNBYXhTMVJUTmxicnZlbkxfaFo0VEJDaklkQnM0b1hkMDV3?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiowFBVV95cUxPdGNzSmFNWkU4ZW5QQUJ2NnlaaWszaTVsS0ZXVFZKdnRSRXdMVmxnaWdHYllUN1hZb2hVNFl3cEVFV2xMaG1RS2s3OUZOLTRPeWdIWnY3WHRGVmsyY1VESmFBRVZOSDljRU9MS1lGQW82a0xpVm4weFVMeVpQbDd3ejNBYXhTMVJUTmxicnZlbkxfaFo0VEJDaklkQnM0b1hkMDV3%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "DeepMind",
+          "type": "blue"
+        }
+      ],
+      "headline": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence - SingularityHub",
+      "body": "Google DeepMind Plans to Track AGI Progress With These 10 Traits of General Intelligence  SingularityHub",
+      "source": {
+        "name": "SingularityHub",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNzR4cjN5QzI1NEZjUGtxSTZ0MVpvSElTS0tYUGdoYmptWUoxUERuQTFTMF92VUh6WUpUZHNRaXZUamQyOG83X0NSb3RVd210Y3Fsa2dkNDNuNEpOTkh4ZTh0Smh4WWhOdWpUeWdMaTRZM3RpTUgzNjR1S1VpbnEzRnIySWU5dUo1TnNqWENzeUFuMXF2M1Y5UERFcHJkQm5OV2U2akpsd3lSRFlzRWN3bzlsQUdZdVB0R25NY0hXLU5uWXB6cXc?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMixgFBVV95cUxPNzR4cjN5QzI1NEZjUGtxSTZ0MVpvSElTS0tYUGdoYmptWUoxUERuQTFTMF92VUh6WUpUZHNRaXZUamQyOG83X0NSb3RVd210Y3Fsa2dkNDNuNEpOTkh4ZTh0Smh4WWhOdWpUeWdMaTRZM3RpTUgzNjR1S1VpbnEzRnIySWU5dUo1TnNqWENzeUFuMXF2M1Y5UERFcHJkQm5OV2U2akpsd3lSRFlzRWN3bzlsQUdZdVB0R25NY0hXLU5uWXB6cXc%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Google",
+          "type": "blue"
+        },
+        {
+          "label": "Business",
+          "type": "violet"
+        }
+      ],
+      "headline": "Google Ventures Europe Mostly Invests In AI-Related Start-ups 03/23/2026 - MediaPost",
+      "body": "Google Ventures Europe Mostly Invests In AI-Related Start-ups 03/23/2026  MediaPost",
+      "source": {
+        "name": "MediaPost",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaTBWQnVWSXRQQ2pabENkMEhBbl83bDNRcU5fbHFyT2Z2NDBlNHpCbGw3aGV1MlM3b0tMUkZwRzVWU09RUnQ1T285TDRvQXlnYmdKT1pBbi03YThSazNQWjZBMUFhT0UxcjJzMVFqNS0zc25vYlM0XzNENXZma0N0TGVEa0xLUzdHbm01QV9HWDlkb3FNTUl2Vm1sU19iWW1laUpFMGtNcHp5UVBwZ2c?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMirgFBVV95cUxOaTBWQnVWSXRQQ2pabENkMEhBbl83bDNRcU5fbHFyT2Z2NDBlNHpCbGw3aGV1MlM3b0tMUkZwRzVWU09RUnQ1T285TDRvQXlnYmdKT1pBbi03YThSazNQWjZBMUFhT0UxcjJzMVFqNS0zc25vYlM0XzNENXZma0N0TGVEa0xLUzdHbm01QV9HWDlkb3FNTUl2Vm1sU19iWW1laUpFMGtNcHp5UVBwZ2c%3Foc%3D5"
     },
     {
       "tags": [
@@ -57,76 +121,31 @@
           "type": "red"
         }
       ],
-      "headline": "Introducing the new full-stack vibe coding experience in Google AI Studio - blog.google",
-      "body": "Introducing the new full-stack vibe coding experience in Google AI Studio  blog.google",
+      "headline": "American Airlines cut contrails by 62% with Google AI - Aerospace Global News",
+      "body": "American Airlines cut contrails by 62% with Google AI  Aerospace Global News",
       "source": {
-        "name": "blog.google",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEdxS1B2dVFEY3hOMnNud21TT3BlcnlOOXlDcEZxRlBOV29UOHhILTRjaUF5czJlMzVqMGllNmlBak14eGZxR3RDZ2xIZHdiNXFpcTBZU2piSHBva01xUEJtVkZfdGo4cFlEaThCM2tWa2RyZWt4MWFhV2ZjOVRpYWhxOFNWQUF4OUd2cEVJdmxZQ3F4U2ljWGJ2U3VNbUdzdnNwZkVZZ05LZw?oc=5"
+        "name": "Aerospace Global News",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYXl0WnZhRzFmdHZsUDR2c2xYRkYwaGhZT0N2Nm1Qbnl3azZyWjA0ZXp5cGw4T2ZsYWZRYnhfLXM0WUQ2ZzcxTzFERDR2WElla0E0QlI2LUZNV0xBRU1fZlhqQXdYWUZHbVd0WHdYZ1dYNkZ5YUpJdmpsM2xhT3pUTw?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiqgFBVV95cUxOWEdxS1B2dVFEY3hOMnNud21TT3BlcnlOOXlDcEZxRlBOV29UOHhILTRjaUF5czJlMzVqMGllNmlBak14eGZxR3RDZ2xIZHdiNXFpcTBZU2piSHBva01xUEJtVkZfdGo4cFlEaThCM2tWa2RyZWt4MWFhV2ZjOVRpYWhxOFNWQUF4OUd2cEVJdmxZQ3F4U2ljWGJ2U3VNbUdzdnNwZkVZZ05LZw%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Google",
-          "type": "blue"
-        }
-      ],
-      "headline": "Google: AI tool helped prevent heat-trapping contrails - The Hill",
-      "body": "Google: AI tool helped prevent heat-trapping contrails  The Hill",
-      "source": {
-        "name": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeTNaS1JCdFp5QVdqNjI3Zm9PcGlTYk9uZXFrOE9KTGxTeDYtU21BZndxZ1FJdDBqUXJjZ09tTTMtVFhOYmFwVVB2Wmk4TFlVNkxWa1RpY0FkQmlnd1RoZWRHZVFveTdMS3BqS2RGQjNENFFXYVlxemM2N1F5TjNvMVVRS1BVRWJiOWfSAY8BQVVfeXFMTUwteDJ4ZGE3TjBtNWVRdkRLZE9TazhoNWpHekczYWFQTV95YmpVdG1UQ1I3S3hPRTJMRjk5dDZoak0yanNaX3RMcERQbl9CdWlObFc5S0ZEeWFiYjJjMzNEeXkwWFJ6bWcyNlUzNjFYSzRpY2pEc3lydEJxZ0pwUDlzb1ZibXVhaUc1R21NOTA?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiigFBVV95cUxPeTNaS1JCdFp5QVdqNjI3Zm9PcGlTYk9uZXFrOE9KTGxTeDYtU21BZndxZ1FJdDBqUXJjZ09tTTMtVFhOYmFwVVB2Wmk4TFlVNkxWa1RpY0FkQmlnd1RoZWRHZVFveTdMS3BqS2RGQjNENFFXYVlxemM2N1F5TjNvMVVRS1BVRWJiOWfSAY8BQVVfeXFMTUwteDJ4ZGE3TjBtNWVRdkRLZE9TazhoNWpHekczYWFQTV95YmpVdG1UQ1I3S3hPRTJMRjk5dDZoak0yanNaX3RMcERQbl9CdWlObFc5S0ZEeWFiYjJjMzNEeXkwWFJ6bWcyNlUzNjFYSzRpY2pEc3lydEJxZ0pwUDlzb1ZibXVhaUc1R21NOTA%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Gemini",
-          "type": "blue"
-        }
-      ],
-      "headline": "Texas Longhorns QB Arch Manning inks NIL deal with Google Gemini - Longhorns Wire",
-      "body": "Texas Longhorns QB Arch Manning inks NIL deal with Google Gemini  Longhorns Wire",
-      "source": {
-        "name": "Longhorns Wire",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPc2xZT2ltbE1mYnBkdmpHUXlaTmVBVzR1V29tQmlSOG9XSlVna3AycGF3cXc0VlRVajktbWg1R3Z3ZFp4MVpDLS1EV21OOXpvZ3d2Q2FOVU1JSmUxOVdZX0xkUjhMMnpkZF91UlBiZWYydXhpOFc4amhNTzlTekdjbTFVdkJCekdmSXBfV1pSQXZWNHp6T0VOUERBUklyaW5WVkxSRjZpdVNYdG9ib2NDcXAweWktZWhWZHNOTmQxN0ZoSGc5QUkycVB6cFYtQk9vZjgzZkRkbldTaDJ4WU9XWVpVWUFSQ2ZJSFM5SlRvZFZkb042LUExYTVKYw?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi-wFBVV95cUxPc2xZT2ltbE1mYnBkdmpHUXlaTmVBVzR1V29tQmlSOG9XSlVna3AycGF3cXc0VlRVajktbWg1R3Z3ZFp4MVpDLS1EV21OOXpvZ3d2Q2FOVU1JSmUxOVdZX0xkUjhMMnpkZF91UlBiZWYydXhpOFc4amhNTzlTekdjbTFVdkJCekdmSXBfV1pSQXZWNHp6T0VOUERBUklyaW5WVkxSRjZpdVNYdG9ib2NDcXAweWktZWhWZHNOTmQxN0ZoSGc5QUkycVB6cFYtQk9vZjgzZkRkbldTaDJ4WU9XWVpVWUFSQ2ZJSFM5SlRvZFZkb042LUExYTVKYw%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Gemini",
-          "type": "blue"
-        }
-      ],
-      "headline": "Google is reportedly testing a Gemini app for Mac - Engadget",
-      "body": "Google is reportedly testing a Gemini app for Mac  Engadget",
-      "source": {
-        "name": "Engadget",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUtmckd6amM4LVNBcnZfOUdrSllnUmJPMFZNYWtfYTQ1TlNUbkVXYUxUZnNXQ2phQmw3cEhPTHg2RzJSaTJIWENPb0NnMXhXOEtFcTFlcnNlMEw1LURGbjlkQXVmZi1vb3hoUmdzQUg3TlRSZ2p4cFZFUFk5cDhDUUFTQmxuaWdaX0V6LU9NWjItb0VoRkln?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilwFBVV95cUxOOUtmckd6amM4LVNBcnZfOUdrSllnUmJPMFZNYWtfYTQ1TlNUbkVXYUxUZnNXQ2phQmw3cEhPTHg2RzJSaTJIWENPb0NnMXhXOEtFcTFlcnNlMEw1LURGbjlkQXVmZi1vb3hoUmdzQUg3TlRSZ2p4cFZFUFk5cDhDUUFTQmxuaWdaX0V6LU9NWjItb0VoRkln%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Search",
-          "type": "blue"
-        }
-      ],
-      "headline": "Google Lags In Mobile AI, Captures Most Search Market Share 10/02/2024 - MediaPost",
-      "body": "Google Lags In Mobile AI, Captures Most Search Market Share 10/02/2024  MediaPost",
-      "source": {
-        "name": "MediaPost",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd2tmc3pZVU51dFNWczNRZ05NdnJkRlFjZGdfYm94RVVtWlRNMGpRQlk1S0Mta2xuVm9PLWpBZUpPd19CZWpTRkhJODlxN3RneHJOV3IzaXZwdVFsQmg0cGphakVaSDR1Yy03aXVuRTNmVWx5dUF4MV9jeG85SnZzMGdCcWZQWTZOdGd5RXZoR1RMdEpHMjFJdDB3dHVjZ0RHLVVOUVNCXy1icHVrX3A4amhVb2pRUW1fLXZPckFuQWZtei1YbkZ4bQ?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiyAFBVV95cUxQd2tmc3pZVU51dFNWczNRZ05NdnJkRlFjZGdfYm94RVVtWlRNMGpRQlk1S0Mta2xuVm9PLWpBZUpPd19CZWpTRkhJODlxN3RneHJOV3IzaXZwdVFsQmg0cGphakVaSDR1Yy03aXVuRTNmVWx5dUF4MV9jeG85SnZzMGdCcWZQWTZOdGd5RXZoR1RMdEpHMjFJdDB3dHVjZ0RHLVVOUVNCXy1icHVrX3A4amhVb2pRUW1fLXZPckFuQWZtei1YbkZ4bQ%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMigAFBVV95cUxQYXl0WnZhRzFmdHZsUDR2c2xYRkYwaGhZT0N2Nm1Qbnl3azZyWjA0ZXp5cGw4T2ZsYWZRYnhfLXM0WUQ2ZzcxTzFERDR2WElla0E0QlI2LUZNV0xBRU1fZlhqQXdYWUZHbVd0WHdYZ1dYNkZ5YUpJdmpsM2xhT3pUTw%3Foc%3D5"
     }
   ],
   "anthropic": [
+    {
+      "tags": [
+        {
+          "label": "Anthropic",
+          "type": "amber"
+        }
+      ],
+      "headline": "Anthropic Denies It Could Sabotage AI Tools During War - WIRED",
+      "body": "Anthropic Denies It Could Sabotage AI Tools During War  WIRED",
+      "source": {
+        "name": "WIRED",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBRTdBMkxjWnVTWFZzeTYyb0YydDVCNUpXdzF5dTRwaXl3X3IzZlpWNWROcUU4dmZRMkh6SEVQUDhtdjFRNG80dmhYUHVFQXBOUWlzYjZEeWktV0N0TndNdi1seDBKdTg2YWZlMXRhdU5YQmxpa0RXSTFSYTlEMDA?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMif0FVX3lxTFBBRTdBMkxjWnVTWFZzeTYyb0YydDVCNUpXdzF5dTRwaXl3X3IzZlpWNWROcUU4dmZRMkh6SEVQUDhtdjFRNG80dmhYUHVFQXBOUWlzYjZEeWktV0N0TndNdi1seDBKdTg2YWZlMXRhdU5YQmxpa0RXSTFSYTlEMDA%3Foc%3D5"
+    },
     {
       "tags": [
         {
@@ -145,17 +164,17 @@
     {
       "tags": [
         {
-          "label": "Anthropic",
+          "label": "Claude",
           "type": "amber"
         }
       ],
-      "headline": "Scoop: Anthropic meets with House Homeland Security behind closed doors - Axios",
-      "body": "Scoop: Anthropic meets with House Homeland Security behind closed doors  Axios",
+      "headline": "Is ChatGPT In Trouble? Claude AI Vs ChatGPT Full Analysis By Ankit Avasthi Sir [ffde24] - Fathom Journal",
+      "body": "Is ChatGPT In Trouble? Claude AI Vs ChatGPT Full Analysis By Ankit Avasthi Sir [ffde24]  Fathom Journal",
       "source": {
-        "name": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qZTRoLU9vU202UFdSaGtYX19WVEhHLXJuU0d0cVFuUVl5NHVhT3AyWG00QUduRHBJRUtxbzRrWGd2eEUtaW5lbkVKSmpCNlhKZjQzWENJOWNiRkpVZHlhbDVpOFVQcnExd09TcC00M3pqV2hJUXVyLQ?oc=5"
+        "name": "Fathom Journal",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jdFFldEZzRkFRTjRvaUFtWGxPeEcwZG4tQ0laYlFrbTZSMEhjS1ZuaVlIX2xlVjF3T3FKbnpjNmJHTDg5TzFnQ29sb19raVUyblFkM3k3OEkyYjBpeTFKZUJpclhidlE3OVk5Ymd2SWs?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMieEFVX3lxTE5qZTRoLU9vU202UFdSaGtYX19WVEhHLXJuU0d0cVFuUVl5NHVhT3AyWG00QUduRHBJRUtxbzRrWGd2eEUtaW5lbkVKSmpCNlhKZjQzWENJOWNiRkpVZHlhbDVpOFVQcnExd09TcC00M3pqV2hJUXVyLQ%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMicEFVX3lxTE1jdFFldEZzRkFRTjRvaUFtWGxPeEcwZG4tQ0laYlFrbTZSMEhjS1ZuaVlIX2xlVjF3T3FKbnpjNmJHTDg5TzFnQ29sb19raVUyblFkM3k3OEkyYjBpeTFKZUJpclhidlE3OVk5Ymd2SWs%3Foc%3D5"
     },
     {
       "tags": [
@@ -164,18 +183,33 @@
           "type": "amber"
         }
       ],
-      "headline": "Pentagon’s Anthropic bashing rekindles Silicon Valley’s resistance to war - Los Angeles Times",
-      "body": "Pentagon’s Anthropic bashing rekindles Silicon Valley’s resistance to war  Los Angeles Times",
+      "headline": "Anthropic is looking for a weapons and explosives expert. Here's why - Mashable",
+      "body": "Anthropic is looking for a weapons and explosives expert. Here's why  Mashable",
       "source": {
-        "name": "Los Angeles Times",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUF9EeTNkWTB1WTBuUlNaZkZqcUlkbEFGRG43SllhX0hvWGdxX2VxNUI3Yk1nWXRQWVI5RDVPaG1uNnV1bzVhYWxaNGE1SUhEN0s2aGdCN1BXNXpyQ0JzYm9fVzFIdDZiaEhhMjlfVVNyOWxMWlpqdUNIa2NoTzZCVTV1NlNlcVhaZHlpNTJsNmNfaHd2RnVlZ3YyU2ZybVRZZU9WTjF3N2FIcENDWFNuN0dtaGRPNng5NEpRbGcwdzVXTlVDU0Y4TXNmcUhZUS1JOVNyLQ?oc=5"
+        "name": "Mashable",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JbkNjWUYwaUlHSWZDT01CczN6SzI2SXhtU19oMjVIUE5fRURHTTkwWFRWVzdQZTZnUFlmRXY5a0dvSl81VXRNRGQ0N29aYS1UZW1KMHVqNUxLdXdqblNUSUpaMldUaEhG?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi1AFBVV95cUxOUF9EeTNkWTB1WTBuUlNaZkZqcUlkbEFGRG43SllhX0hvWGdxX2VxNUI3Yk1nWXRQWVI5RDVPaG1uNnV1bzVhYWxaNGE1SUhEN0s2aGdCN1BXNXpyQ0JzYm9fVzFIdDZiaEhhMjlfVVNyOWxMWlpqdUNIa2NoTzZCVTV1NlNlcVhaZHlpNTJsNmNfaHd2RnVlZ3YyU2ZybVRZZU9WTjF3N2FIcENDWFNuN0dtaGRPNng5NEpRbGcwdzVXTlVDU0Y4TXNmcUhZUS1JOVNyLQ%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiaEFVX3lxTE5JbkNjWUYwaUlHSWZDT01CczN6SzI2SXhtU19oMjVIUE5fRURHTTkwWFRWVzdQZTZnUFlmRXY5a0dvSl81VXRNRGQ0N29aYS1UZW1KMHVqNUxLdXdqblNUSUpaMldUaEhG%3Foc%3D5"
     },
     {
       "tags": [
         {
           "label": "Claude",
+          "type": "amber"
+        }
+      ],
+      "headline": "Claude down: Anthropic AI users hit by ‘errors’ as chatbot not working properly - AOL.com",
+      "body": "Claude down: Anthropic AI users hit by ‘errors’ as chatbot not working properly  AOL.com",
+      "source": {
+        "name": "AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FNGg0a3g2SDZZTElST1oybDJBclQxRi1kMG5sRFUzS0Y0MEVsbXhONnNrcWV2SFc2LTBXSC1LTndTSmljR0dubkhraGZZSE1MVlI2VEdGRnp2bHJuVFBuMnRXY0ViWS03Y1ZCc0pBU0R4NHRzaHI4WFhKX3U4LVU?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMif0FVX3lxTE9FNGg0a3g2SDZZTElST1oybDJBclQxRi1kMG5sRFUzS0Y0MEVsbXhONnNrcWV2SFc2LTBXSC1LTndTSmljR0dubkhraGZZSE1MVlI2VEdGRnp2bHJuVFBuMnRXY0ViWS03Y1ZCc0pBU0R4NHRzaHI4WFhKX3U4LVU%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Anthropic",
           "type": "amber"
         },
         {
@@ -183,13 +217,28 @@
           "type": "red"
         }
       ],
-      "headline": "DoD ‘confident’ it can replace Anthropic’s Claude within six months, but some warn transition won’t be easy - Federal News Network",
-      "body": "DoD ‘confident’ it can replace Anthropic’s Claude within six months, but some warn transition won’t be easy  Federal News Network",
+      "headline": "More! More! More! Tech Workers Max Out Their A.I. Use. - The New York Times",
+      "body": "More! More! More! Tech Workers Max Out Their A.I. Use.  The New York Times",
       "source": {
-        "name": "Federal News Network",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWmJSWmkyWUVNTVFvTERJT0NUTXdDcWt3eE5mSjZhQXE0bmQ1R205WjBLMldxUWk5RjdQS2xZeURtUmtzc19Ld3JkS3A1bVhfT05teXRTOWR3X2F4dzRETFNLUGxwTVI4MS1lajBIaXdYbC10UVBaa3Y1VlpwR3ZGNTExYlY1S1pFOGJXWVdGYW9vLU1XWEtHY3ZPSHdFUUdCZnNuS0lXV3g2MEtxcjhfTDN5TnZ4NFhrTVk2SUJBV29hd3lJVnhka0xXWnFpbnV3Z0lkQWNKMjZxbktsN1BsVjFJd1Z0cnNKZXZN?oc=5"
+        "name": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw?oc=5"
       },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi6wFBVV95cUxPWmJSWmkyWUVNTVFvTERJT0NUTXdDcWt3eE5mSjZhQXE0bmQ1R205WjBLMldxUWk5RjdQS2xZeURtUmtzc19Ld3JkS3A1bVhfT05teXRTOWR3X2F4dzRETFNLUGxwTVI4MS1lajBIaXdYbC10UVBaa3Y1VlpwR3ZGNTExYlY1S1pFOGJXWVdGYW9vLU1XWEtHY3ZPSHdFUUdCZnNuS0lXV3g2MEtxcjhfTDN5TnZ4NFhrTVk2SUJBV29hd3lJVnhka0xXWnFpbnV3Z0lkQWNKMjZxbktsN1BsVjFJd1Z0cnNKZXZN%3Foc%3D5"
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMifkFVX3lxTE4zbnNEc3VBUlZ1WlJGRnBmT1ZCb3o1VlhGUV9NcDUwVGNtOGRxaV82TTB3UlBrNGE4ZmVna1I2azVKNzdNUkFZemR6ZFdabFl6bEVfbVhXSW9kRG1QcFZxM1dvUGh0YWZrR2g1LU9QazBGR2hlaUlxRTQ1UGNGdw%3Foc%3D5"
+    },
+    {
+      "tags": [
+        {
+          "label": "Claude",
+          "type": "amber"
+        }
+      ],
+      "headline": "11 of the most interesting quotes from Claude users about their hopes and fears for AI - Business Insider",
+      "body": "11 of the most interesting quotes from Claude users about their hopes and fears for AI  Business Insider",
+      "source": {
+        "name": "Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNm95YWItY1FPZEpqcVdqNzdyaUsyT1JuclA0Uy1ybmM3eGdDc2RzcXFBNTRUVlFraXQzQjBVdHd4aTFtcl9pejhYUWI2MmVBM0lvT25zSW5kUHlUZEZJM0RWSUdtSHFsV2NlYlB3TE9oUU4tMGdkbGFaUnJTbVNmQkdDakpHOGNaZFQ1SFctMG9PbFg2?oc=5"
+      },
+      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMilAFBVV95cUxNNm95YWItY1FPZEpqcVdqNzdyaUsyT1JuclA0Uy1ybmM3eGdDc2RzcXFBNTRUVlFraXQzQjBVdHd4aTFtcl9pejhYUWI2MmVBM0lvT25zSW5kUHlUZEZJM0RWSUdtSHFsV2NlYlB3TE9oUU4tMGdkbGFaUnJTbVNmQkdDakpHOGNaZFQ1SFctMG9PbFg2%3Foc%3D5"
     },
     {
       "tags": [
@@ -205,55 +254,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFJrV0xVbWxrMEFfNDlOYUFlUG1HU29peWJjZkotck9jQkw5VHJPRmxpY2NlUV9YUnVFMEszMHYyVllsdEFwVkk5aF9pdkpHMi0yY1ZhbHBWNmZ3R3RIM0xRTG9rMzdqQVpCa1ZPbEpXS1BxZmlhc2RGbkxELTJkRUV1OUlVWDNKdzdfc0RGQlFmLXM2UHNsYUNMYU1IejVCSEhZSk1HajBNc2J0YkVZWHExMk9RcV8taFFONC1oUVZoYXM?oc=5"
       },
       "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMiwwFBVV95cUxOSFJrV0xVbWxrMEFfNDlOYUFlUG1HU29peWJjZkotck9jQkw5VHJPRmxpY2NlUV9YUnVFMEszMHYyVllsdEFwVkk5aF9pdkpHMi0yY1ZhbHBWNmZ3R3RIM0xRTG9rMzdqQVpCa1ZPbEpXS1BxZmlhc2RGbkxELTJkRUV1OUlVWDNKdzdfc0RGQlFmLXM2UHNsYUNMYU1IejVCSEhZSk1HajBNc2J0YkVZWHExMk9RcV8taFFONC1oUVZoYXM%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Anthropic",
-          "type": "amber"
-        },
-        {
-          "label": "New",
-          "type": "red"
-        }
-      ],
-      "headline": "Pentagon orders removal of Anthropic AI from government systems - Scot Scoop News",
-      "body": "Pentagon orders removal of Anthropic AI from government systems  Scot Scoop News",
-      "source": {
-        "name": "Scot Scoop News",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRHNzNmU5bkpnSXNtRWxQZUFlQ1dCYWRxbjhpUTZCeXh3Q2ppUlZKdFFEeTBrNmZHY21EYS13VFdFOHNac2NpY2FkTzlJb1BOZFBENUw1SFZEcDJrZi1vd3l3SXZxNXc4T2VIOEhiY2luYmt5WU15UW81V0hpREVvQ1RwZDNnblFQMXM5VnFkWQ?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMijwFBVV95cUxNRHNzNmU5bkpnSXNtRWxQZUFlQ1dCYWRxbjhpUTZCeXh3Q2ppUlZKdFFEeTBrNmZHY21EYS13VFdFOHNac2NpY2FkTzlJb1BOZFBENUw1SFZEcDJrZi1vd3l3SXZxNXc4T2VIOEhiY2luYmt5WU15UW81V0hpREVvQ1RwZDNnblFQMXM5VnFkWQ%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Anthropic",
-          "type": "amber"
-        }
-      ],
-      "headline": "IBM plunges on Anthropic AI threat - MSN",
-      "body": "IBM plunges on Anthropic AI threat  MSN",
-      "source": {
-        "name": "MSN",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN2lsQUVJclptOFJ3VlVjZHppS2c4a3hIaEU4SllpYjJWLWJvMHRlMFRGdHZ4SW1lOFZlYXVPZFN2UXhpMVo3TERNalR2WkhQYTNJOTdHMFZDM0pobGFwMFhiUzlBSXNzSkliLW96a05qNUlzSXZEbzBjTTlOLWpVQzVabzRyR3pXcU16ZDRIRV94Y3VGUGZtX3l1T01Jak9pMWczZGVjZVhjZkJnckZmNVlsdHQ3bkhkU0k3bUtxV29vaGVZZHI4WnN3dGRIdkxFQ1E?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMi0gFBVV95cUxPN2lsQUVJclptOFJ3VlVjZHppS2c4a3hIaEU4SllpYjJWLWJvMHRlMFRGdHZ4SW1lOFZlYXVPZFN2UXhpMVo3TERNalR2WkhQYTNJOTdHMFZDM0pobGFwMFhiUzlBSXNzSkliLW96a05qNUlzSXZEbzBjTTlOLWpVQzVabzRyR3pXcU16ZDRIRV94Y3VGUGZtX3l1T01Jak9pMWczZGVjZVhjZkJnckZmNVlsdHQ3bkhkU0k3bUtxV29vaGVZZHI4WnN3dGRIdkxFQ1E%3Foc%3D5"
-    },
-    {
-      "tags": [
-        {
-          "label": "Anthropic",
-          "type": "amber"
-        }
-      ],
-      "headline": "BMG Sues Anthropic Over Alleged Use of Copyrighted Lyrics in AI Training - Law Commentary",
-      "body": "BMG Sues Anthropic Over Alleged Use of Copyrighted Lyrics in AI Training  Law Commentary",
-      "source": {
-        "name": "Law Commentary",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbk9qU2RzYVc0Vy01eEFmcV92dmppRkJ5WWxVdGc0bWJqd1FHNXNhWEtlc0R3WVJkYjVRVVZZQktmb3ExdHppVFFvSmJ0QXRQcGRYOVNBdG9fOUQ5eElSeU05SFpZb2Q2UlFkdEtNbmo1NkV4VkJZOFdBZUY2ZmkxUUdXNXRtcU1fTVB2UnZGRTV2cG0wSUxZWW1ULU9QSDg4V0E0M09YMTJ1cG14X0pPSw?oc=5"
-      },
-      "translate_url": "https://translate.google.com/translate?sl=en&tl=ja&u=https%3A%2F%2Fnews.google.com%2Frss%2Farticles%2FCBMisAFBVV95cUxPbk9qU2RzYVc0Vy01eEFmcV92dmppRkJ5WWxVdGc0bWJqd1FHNXNhWEtlc0R3WVJkYjVRVVZZQktmb3ExdHppVFFvSmJ0QXRQcGRYOVNBdG9fOUQ5eElSeU05SFpZb2Q2UlFkdEtNbmo1NkV4VkJZOFdBZUY2ZmkxUUdXNXRtcU1fTVB2UnZGRTV2cG0wSUxZWW1ULU9QSDg4V0E0M09YMTJ1cG14X0pPSw%3Foc%3D5"
     }
   ],
   "upcoming": [],
@@ -269,12 +269,12 @@
       "color": "c-amber"
     },
     {
-      "value": "20:26",
+      "value": "13:22",
       "label": "最終更新時刻",
       "color": "c-violet"
     },
     {
-      "value": "03/20",
+      "value": "03/21",
       "label": "取得日",
       "color": "c-red"
     }
